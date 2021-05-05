@@ -1,0 +1,503 @@
+SA÷1¬
+
+~ZA÷АВСТРАЛИЯ: Лига А¬ZEE÷OjWW1naM¬ZB÷24¬ZY÷Австралия¬ZC÷QimmJ1Uo¬ZD÷p¬ZE÷4YOCJNn0¬ZF÷0¬ZO÷0¬ZG÷1¬ZH÷24_OjWW1naM¬ZJ÷2¬ZL÷/football/australia/a-league/¬ZX÷00Австралия   009тралия0000000000001000Лига А      006Лига А000¬ZCC÷0¬ZAF÷Австралия¬
+
+~AA÷0n7oupX8¬AD÷1611043500¬ADE÷1611043500¬AB÷3¬CR÷3¬AC÷3¬CX÷Централ Кост Маринерс¬RW÷0¬AX÷1¬AO÷1611050110¬BX÷-1¬WQ÷¬WM÷CEN¬AE÷Централ Кост Маринерс¬JA÷MqefSUiR¬WU÷central-coast-mariners¬GRA÷0¬AG÷0¬BA÷0¬BC÷0¬WN÷WSW¬AF÷ВС Уондерерс¬JB÷vPsMNl0r¬WV÷western-sydney-wanderers¬AS÷2¬AZ÷2¬GRB÷0¬AH÷1¬BB÷0¬BD÷1¬AW÷1¬
+
+~ZA÷АНГЛИЯ: Премьер-лига¬ZEE÷dYlOSQOD¬ZB÷198¬ZY÷Англия¬ZC÷zTRyeuJg¬ZD÷t¬ZE÷AJuiuwWt¬ZF÷0¬ZO÷1¬ZG÷1¬ZH÷198_dYlOSQOD¬ZJ÷2¬ZL÷/football/england/premier-league/¬ZX÷00Англия      006Англия0000000000001000Премьер-лига012р-лига000¬ZCC÷0¬ZAF÷Англия¬
+
+~AA÷fkONvEnm¬AD÷1611000000¬ADE÷1611000000¬AB÷3¬CR÷3¬AC÷3¬CX÷Арсенал¬RW÷0¬AX÷1¬AO÷1611006528¬BX÷-1¬WQ÷¬WM÷АРС¬AE÷Арсенал¬JA÷QBxsNOKk¬WU÷arsenal¬AS÷1¬AZ÷1¬GRA÷0¬AG÷3¬BA÷0¬BC÷3¬WN÷НЬЮ¬AF÷Ньюкасл Юнайтед¬JB÷KYyoMrzd¬WV÷newcastle-utd¬GRB÷0¬AH÷0¬BB÷0¬BD÷0¬AW÷1¬
+
+~AA÷8bk5MWWI¬AD÷1611079200¬ADE÷1611079200¬AB÷3¬CR÷3¬AC÷3¬CX÷Вест Хэм¬RW÷0¬AX÷1¬AO÷1611085992¬BX÷-1¬WQ÷¬WM÷ВЕС¬AE÷Вест Хэм¬JA÷lCh98P5d¬WU÷west-ham¬AS÷1¬AZ÷1¬GRA÷0¬AG÷2¬BA÷1¬BC÷1¬WN÷ВЕС¬AF÷Вест Бромвич¬JB÷2FtiX8rc¬WV÷west-brom¬GRB÷0¬AH÷1¬BB÷0¬BD÷1¬AW÷1¬
+
+~AA÷zoicOh26¬AD÷1611087300¬ADE÷1611087300¬AB÷2¬CR÷2¬AC÷12¬CX÷Лестер¬RW÷0¬AI÷y¬AX÷1¬AO÷1611087333¬BX÷¬WQ÷¬WN÷ЧЕЛ¬AF÷Челси¬JB÷EygzFRSS¬WV÷chelsea¬GRB÷0¬AH÷0¬BB÷0¬WM÷ЛЕС¬AE÷Лестер¬JA÷KEgWF7DM¬WU÷leicester¬GRA÷0¬AG÷1¬BA÷1¬AL÷{"2":[{"BU":"\/bookmaker\/486\/?from=live-streaming&sport=0","IU":"\/res\/image\/data\/bookmakers\/17-486.png","BN":"Olimp.bet","BI":486},{"BU":"\/bookmaker\/561\/?from=live-streaming&sport=0","IU":"\/res\/image\/data\/bookmakers\/17-561.png","BN":"Olimpbet.kz","BI":561}]}¬BGS÷{"GB":[16],"CZ":[49,45],"SK":[411]}¬AW÷1¬AN÷y¬MW÷454|453|471|417|16¬
+
+~ZA÷АНГЛИЯ: Чемпионшип¬ZEE÷2DSCa5fE¬ZB÷198¬ZY÷Англия¬ZC÷MiYxzVno¬ZD÷p¬ZE÷WYTawH0g¬ZF÷0¬ZO÷1¬ZG÷1¬ZH÷198_2DSCa5fE¬ZJ÷2¬ZL÷/football/england/championship/¬ZX÷00Англия      006Англия0010000000001000Чемпионшип  010ионшип000¬ZCC÷0¬ZAF÷Англия¬
+
+~AA÷A54e4HV5¬AD÷1611079200¬ADE÷1611079200¬AB÷3¬CR÷3¬AC÷3¬CX÷Дерби Каунти¬RW÷0¬AX÷1¬AO÷1611086175¬BX÷-1¬WQ÷¬WM÷ДЕР¬AE÷Дерби Каунти¬JA÷lpfcBeOQ¬WU÷derby¬AS÷1¬AZ÷1¬GRA÷0¬AG÷1¬BA÷1¬BC÷0¬WN÷БОР¬AF÷Борнмут¬JB÷jgtP6FWs¬WV÷bournemouth¬GRB÷0¬AH÷0¬BB÷0¬BD÷0¬AW÷1¬
+
+~AA÷YwjjQbhP¬AD÷1611079200¬ADE÷1611079200¬AB÷3¬CR÷3¬AC÷3¬CX÷Рединг¬RW÷0¬AX÷1¬AO÷1611086129¬BX÷-1¬WQ÷¬WM÷РЕД¬AE÷Рединг¬JA÷EXtv2Z0J¬WU÷reading¬AS÷1¬AZ÷1¬GRA÷0¬AG÷3¬BA÷1¬BC÷2¬WN÷КОВ¬AF÷Ковентри Сити¬JB÷Szor1gGP¬WV÷coventry¬AK÷1¬GRB÷0¬AH÷0¬BB÷0¬BD÷0¬AW÷1¬
+
+~AA÷nNa4cIy5¬AD÷1611082800¬ADE÷1611082800¬AB÷3¬CR÷3¬AC÷4¬CX÷Блэкберн¬RW÷0¬AX÷0¬BX÷-1¬WQ÷¬WM÷БЛЭ¬AE÷Блэкберн¬JA÷j1YW9CzU¬WU÷blackburn¬GRA÷0¬WN÷SWA¬AF÷Суонси¬JB÷hAKb5Wro¬WV÷swansea¬GRB÷0¬AM÷Перенесен из-за непригодного поля.¬AW÷1¬
+
+~AA÷O88a3yoC¬AD÷1611085500¬ADE÷1611085500¬AB÷2¬CR÷2¬AC÷13¬CX÷Ротерхэм¬RW÷0¬AI÷y¬AX÷1¬AO÷1611089468¬BX÷¬WQ÷¬WM÷РОТ¬AE÷Ротерхэм¬JA÷pGuT5Zol¬WU÷rotherham¬GRA÷0¬AG÷1¬BA÷1¬BC÷0¬WN÷СТО¬AF÷Сток Сити¬JB÷bJqX4g1f¬WV÷stoke-city¬GRB÷0¬AH÷1¬BB÷1¬BD÷0¬AW÷1¬AN÷y¬MW÷454|453|471|417|16¬
+
+~AA÷pOd81FFO¬AD÷1611085500¬ADE÷1611085500¬AB÷2¬CR÷2¬AC÷13¬CX÷Уотфорд¬RW÷0¬AI÷y¬AX÷1¬AO÷1611089241¬BX÷¬WQ÷¬WN÷БАР¬AF÷Барнсли¬JB÷4ben1B0J¬WV÷barnsley¬GRB÷0¬AH÷0¬BB÷0¬BD÷0¬WM÷УОТ¬AE÷Уотфорд¬JA÷Q7dr2ioD¬WU÷watford¬GRA÷0¬AG÷1¬BA÷1¬BC÷0¬AW÷1¬AN÷y¬MW÷454|453|471|417|16¬
+
+~ZA÷АНГЛИЯ: Первая лига¬ZEE÷rJSMG3H0¬ZB÷198¬ZY÷Англия¬ZC÷tIvYcYvh¬ZD÷p¬ZE÷lfdCxyGa¬ZF÷0¬ZO÷1¬ZG÷1¬ZH÷198_rJSMG3H0¬ZJ÷2¬ZL÷/football/england/league-one/¬ZX÷00Англия      006Англия0020000000001000Первая лига 011я лига000¬ZCC÷0¬ZAF÷Англия¬
+
+~AA÷U7ItCRqS¬AD÷1611077400¬ADE÷1611077400¬AB÷3¬CR÷3¬AC÷3¬CX÷Халл¬RW÷0¬AX÷1¬AO÷1611084391¬BX÷-1¬WQ÷¬WM÷ХАЛ¬AE÷Халл¬JA÷6TOKr8Mu¬WU÷hull-city¬AS÷1¬AZ÷1¬GRA÷0¬AG÷3¬BA÷1¬BC÷2¬WN÷АКК¬AF÷Аккрингтон¬JB÷KWSOsSyn¬WV÷accrington¬AK÷1¬GRB÷0¬AH÷0¬BB÷0¬BD÷0¬AW÷1¬
+
+~AA÷08A4YTEk¬AD÷1611081000¬ADE÷1611081000¬AB÷3¬CR÷3¬AC÷3¬CX÷Петерборо Юнайтед¬RW÷0¬AX÷1¬AO÷1611087837¬BX÷-1¬WQ÷¬WM÷ПЕТ¬AE÷Петерборо Юнайтед¬JA÷Y51RQrX4¬WU÷peterborough¬AS÷1¬AZ÷1¬GRA÷0¬AG÷2¬BA÷0¬BC÷2¬WN÷ЧАР¬AF÷Чарльтон¬JB÷Cd0VP2nB¬WV÷charlton¬GRB÷0¬AH÷1¬BB÷1¬BD÷0¬AW÷1¬
+
+~AA÷Ykx90nbr¬AD÷1611082800¬ADE÷1611082800¬AB÷3¬CR÷3¬AC÷4¬CX÷Блэкпул¬RW÷0¬AX÷0¬BX÷-1¬WQ÷¬WM÷БЛЭ¬AE÷Блэкпул¬JA÷nD95efxd¬WU÷blackpool¬GRA÷0¬WN÷НОР¬AF÷Нортхэмптон¬JB÷Q389fEi2¬WV÷northampton¬GRB÷0¬AM÷Перенесен из-за непригодного поля.¬AW÷1¬
+
+~AA÷88ULcpr1¬AD÷1611082800¬ADE÷1611082800¬AB÷3¬CR÷3¬AC÷3¬CX÷Донкастер¬RW÷0¬AX÷1¬AO÷1611089736¬BX÷-1¬WQ÷¬WN÷РОЧ¬AF÷Рочдейл¬JB÷WMQzbmbf¬WV÷rochdale¬GRB÷0¬AH÷0¬BB÷0¬BD÷0¬WM÷ДОН¬AE÷Донкастер¬JA÷hWRWbTrl¬WU÷doncaster¬AS÷1¬AZ÷1¬GRA÷0¬AG÷1¬BA÷1¬BC÷0¬AW÷1¬
+
+~AA÷UHVHbQSf¬AD÷1611082800¬ADE÷1611082800¬AB÷2¬CR÷2¬AC÷13¬CX÷Крю¬RW÷0¬AI÷y¬AX÷1¬AO÷1611086956¬BX÷¬WQ÷¬WN÷БРИ¬AF÷Бристоль Роверс¬JB÷b9SSa9Ts¬WV÷bristol-rovers¬GRB÷0¬AH÷2¬BB÷0¬BD÷2¬WM÷КРЮ¬AE÷Крю¬JA÷nXaaHyaF¬WU÷crewe¬GRA÷0¬AG÷3¬BA÷2¬BC÷1¬AW÷1¬AN÷y¬MW÷454|453|471|417|16¬
+
+~AA÷rZMbI261¬AD÷1611082800¬ADE÷1611082800¬AB÷3¬CR÷3¬AC÷4¬CX÷Линкольн¬RW÷0¬AX÷0¬BX÷-1¬WQ÷¬WM÷ЛИН¬AE÷Линкольн¬JA÷CpYSoYYl¬WU÷lincoln-city¬GRA÷0¬WN÷ГИЛ¬AF÷Гиллингем¬JB÷jyXWphle¬WV÷gillingham¬GRB÷0¬AW÷1¬
+
+~AA÷f3Zu3uKt¬AD÷1611082800¬ADE÷1611082800¬AB÷3¬CR÷3¬AC÷3¬CX÷Милтон Кинс¬RW÷0¬AX÷1¬AO÷1611089587¬BX÷-1¬WQ÷¬WM÷МИЛ¬AE÷Милтон Кинс¬JA÷CIg2cyPt¬WU÷milton-keynes-dons¬AS÷1¬AZ÷1¬GRA÷0¬AG÷3¬BA÷3¬BC÷0¬WN÷FLE¬AF÷Флитвуд¬JB÷j9h6devm¬WV÷fleetwood-town¬GRB÷0¬AH÷1¬BB÷0¬BD÷1¬AW÷1¬
+
+~AA÷tKXm1Jlg¬AD÷1611082800¬ADE÷1611082800¬AB÷3¬CR÷3¬AC÷3¬CX÷Портсмут¬RW÷0¬AX÷1¬AO÷1611089734¬BX÷-1¬WQ÷¬WN÷WIM¬AF÷Уимблдон¬JB÷GU8LhDwC¬WV÷afc-wimbledon¬GRB÷0¬AH÷0¬BB÷0¬BD÷0¬WM÷ПОР¬AE÷Портсмут¬JA÷xvAHggO5¬WU÷portsmouth¬AS÷1¬AZ÷1¬GRA÷0¬AG÷4¬BA÷3¬BC÷1¬AW÷1¬
+
+~AA÷OrNh0w4a¬AD÷1611082800¬ADE÷1611082800¬AB÷2¬CR÷2¬AC÷13¬CX÷Сандерленд¬RW÷0¬AI÷y¬AX÷1¬AO÷1611086777¬BX÷¬WQ÷¬WM÷САН¬AE÷Сандерленд¬JA÷p4DPiXhI¬WU÷sunderland¬GRA÷0¬AG÷1¬BA÷0¬BC÷1¬WN÷ПЛИ¬AF÷Плимут¬JB÷OfCTji8O¬WV÷plymouth¬GRB÷0¬AH÷2¬BB÷1¬BD÷1¬AW÷1¬AN÷y¬MW÷454|453|471|417|16¬
+
+~ZA÷АНГЛИЯ: Вторая лига¬ZEE÷0MwU4NW6¬ZB÷198¬ZY÷Англия¬ZC÷WYmmpWOA¬ZD÷p¬ZE÷M7fKzFpC¬ZF÷0¬ZO÷1¬ZG÷1¬ZH÷198_0MwU4NW6¬ZJ÷2¬ZL÷/football/england/league-two/¬ZX÷00Англия      006Англия0030000000001000Вторая лига 011я лига000¬ZCC÷0¬ZAF÷Англия¬
+
+~AA÷SQbw2Tte¬AD÷1611082800¬ADE÷1611082800¬AB÷3¬CR÷3¬AC÷4¬CX÷Карлайл Юнайтед¬RW÷0¬AX÷0¬AO÷1610699469¬BX÷-1¬WQ÷¬WM÷КАР¬AE÷Карлайл Юнайтед¬JA÷zTOKbks5¬WU÷carlisle¬GRA÷0¬WN÷ЛЕЙ¬AF÷Лейтон Ориент¬JB÷lWSOc9dB¬WV÷leyton-orient¬GRB÷0¬AW÷1¬
+
+~AA÷0vco07B7¬AD÷1611082800¬ADE÷1611082800¬AB÷3¬CR÷3¬AC÷4¬CX÷Кроули Таун¬RW÷0¬AX÷0¬BX÷-1¬WQ÷¬WM÷CRA¬AE÷Кроули Таун¬JA÷jJVze7tU¬WU÷crawley-town¬GRA÷0¬WN÷STE¬AF÷Стивенейдж¬JB÷hSH2jRlo¬WV÷stevenage¬GRB÷0¬AW÷1¬
+
+~AA÷KfGTMUIK¬AD÷1611082800¬ADE÷1611082800¬AB÷3¬CR÷3¬AC÷3¬CX÷Моркам¬RW÷0¬AX÷1¬AO÷1611089450¬BX÷-1¬WQ÷¬WM÷МОР¬AE÷Моркам¬JA÷juZXhKAq¬WU÷morecambe¬AS÷0¬AZ÷0¬GRA÷0¬AG÷1¬BA÷0¬BC÷1¬WN÷УОЛ¬AF÷Уоллсол¬JB÷4rwxhvQk¬WV÷walsall¬AS÷0¬AZ÷0¬GRB÷0¬AH÷1¬BB÷1¬BD÷0¬AW÷1¬
+
+~AA÷zHJm8zTm¬AD÷1611082800¬ADE÷1611082800¬AB÷2¬CR÷2¬AC÷13¬CX÷Саутенд Юнайтед¬RW÷0¬AI÷y¬AX÷1¬AO÷1611086668¬BX÷¬WQ÷¬WN÷CAM¬AF÷Кембридж Юнайтед¬JB÷rXpGU6Y1¬WV÷cambridge-utd¬GRB÷0¬AH÷2¬BB÷0¬BD÷2¬WM÷САУ¬AE÷Саутенд Юнайтед¬JA÷4tnCVnJe¬WU÷southend¬GRA÷0¬AG÷1¬BA÷1¬BC÷0¬AW÷1¬AN÷y¬MW÷454|453|471|417|16¬
+
+~AA÷vaPoT5uf¬AD÷1611082800¬ADE÷1611082800¬AB÷2¬CR÷2¬AC÷13¬CX÷Транмир Роверс¬RW÷0¬AI÷y¬AX÷1¬AO÷1611086767¬BX÷¬WQ÷¬WN÷FOR¬AF÷Форест Грин¬JB÷0W10FGwK¬WV÷forest-green¬GRB÷0¬AH÷2¬BB÷0¬BD÷2¬WM÷ТРА¬AE÷Транмир Роверс¬JA÷nTcdGdOD¬WU÷tranmere¬GRA÷0¬AG÷3¬BA÷1¬BC÷2¬AW÷1¬AN÷y¬MW÷453|471|417|16¬
+
+~AA÷nqiyvNgC¬AD÷1611082800¬ADE÷1611082800¬AB÷3¬CR÷3¬AC÷3¬CX÷Харрогейт¬RW÷0¬AX÷1¬AO÷1611089447¬BX÷-1¬WQ÷¬WM÷HAR¬AE÷Харрогейт¬JA÷nm4dLr6A¬WU÷harrogate¬AS÷0¬AZ÷0¬AJ÷1¬GRA÷0¬AG÷0¬BA÷0¬BC÷0¬WN÷EXE¬AF÷Эксетер Сити¬JB÷bN70K2LG¬WV÷exeter¬AS÷0¬AZ÷0¬GRB÷0¬AH÷0¬BB÷0¬BD÷0¬AW÷1¬
+
+~AA÷Y5t8mbF9¬AD÷1611082800¬ADE÷1611082800¬AB÷2¬CR÷2¬AC÷13¬CX÷Челтенхэм¬RW÷0¬AI÷y¬AX÷1¬AO÷1611086847¬BX÷¬WQ÷¬WN÷NEP¬AF÷Ньюпорт¬JB÷dQF7Qri5¬WV÷newport¬GRB÷0¬AH÷1¬BB÷1¬BD÷0¬WM÷ЧЕЛ¬AE÷Челтенхэм¬JA÷IZG3ROya¬WU÷cheltenham¬GRA÷0¬AG÷1¬BA÷1¬BC÷0¬AW÷1¬AN÷y¬MW÷453|471|417|16¬
+
+~ZA÷АНГЛИЯ: Национальная лига¬ZEE÷4CWHXGM1¬ZB÷198¬ZY÷Англия¬ZC÷84A3rAgN¬ZD÷c¬ZE÷tE6wyZaI¬ZF÷0¬ZO÷0¬ZG÷1¬ZH÷198_4CWHXGM1¬ZJ÷2¬ZL÷/football/england/national-league/¬ZX÷00Англия      006Англия0040000000001000Национальная017я лига000¬ZCC÷0¬ZAF÷Англия¬
+
+~AA÷29d8izQJ¬AD÷1611082800¬ADE÷1611082800¬AB÷3¬CR÷3¬AC÷4¬CX÷Бромли¬RW÷0¬AX÷0¬AO÷1610539428¬BX÷-1¬WQ÷¬WM÷BRO¬AE÷Бромли¬JA÷QLLVIico¬WU÷bromley¬GRA÷0¬WN÷SUT¬AF÷Саттон Юнайтед¬JB÷xdPZHBCi¬WV÷sutton¬GRB÷0¬AM÷Перенесен из-за Кубка ФА.¬
+
+~AA÷f7cIaXHt¬AD÷1611082800¬ADE÷1611082800¬AB÷3¬CR÷3¬AC÷4¬CX÷Галифакс Таун¬RW÷0¬AX÷0¬AO÷1609582682¬BX÷-1¬WQ÷¬WM÷HAL¬AE÷Галифакс Таун¬JA÷Stt0TaHK¬WU÷halifax¬GRA÷0¬WN÷ХАР¬AF÷Хартлпул Юнайтед¬JB÷6Xv4SJWQ¬WV÷hartlepool¬GRB÷0¬
+
+~AA÷pGOfqcF9¬AD÷1611082800¬ADE÷1611082800¬AB÷3¬CR÷3¬AC÷3¬CX÷Дагенхэм энд Редбридж¬RW÷0¬AX÷1¬AO÷1611089569¬BX÷-1¬WQ÷¬WM÷ДЭР¬AE÷Дагенхэм энд Редбридж¬JA÷zLlZ5yqG¬WU÷dagenham-red¬GRA÷0¬AG÷0¬BA÷0¬BC÷0¬WN÷СТО¬AF÷Стокпорт Каунти¬JB÷EBmw5ebM¬WV÷stockport¬AS÷2¬AZ÷2¬GRB÷0¬AH÷2¬BB÷0¬BD÷2¬
+
+~AA÷z7fYpV7B¬AD÷1611082800¬ADE÷1611082800¬AB÷3¬CR÷3¬AC÷3¬CX÷Истли¬RW÷0¬AX÷1¬AO÷1611089449¬BX÷-1¬WQ÷¬WM÷EAS¬AE÷Истли¬JA÷KQLX4kaF¬WU÷eastleigh¬GRA÷0¬AG÷0¬BA÷0¬BC÷0¬WN÷KIN¬AF÷Кингс Линн¬JB÷W0Py49EL¬WV÷kings-lynn¬AS÷2¬AZ÷2¬GRB÷0¬AH÷1¬BB÷1¬BD÷0¬
+
+~AA÷l68QSjmJ¬AD÷1611085500¬ADE÷1611085500¬AB÷3¬CR÷3¬AC÷4¬CX÷Борхэм Вуд¬RW÷0¬AX÷0¬BX÷-1¬WQ÷¬WM÷BOR¬AE÷Борхэм Вуд¬JA÷8taOEuoU¬WU÷boreham-wood¬GRA÷0¬WN÷БАР¬AF÷Барнет¬JB÷AkojAago¬WV÷barnet¬GRB÷0¬
+
+~AA÷EmGDVh30¬AD÷1611085500¬ADE÷1611085500¬AB÷3¬CR÷3¬AC÷4¬CX÷Йовил¬RW÷0¬AX÷0¬BX÷-1¬WQ÷¬WM÷ЙОВ¬AE÷Йовил¬JA÷Kxf0KqHh¬WU÷yeovil¬GRA÷0¬WN÷НОТ¬AF÷Ноттс Каунти¬JB÷bTh4J3Wb¬WV÷notts-county¬GRB÷0¬
+
+~AA÷vuufXBwC¬AD÷1611085500¬ADE÷1611085500¬AB÷3¬CR÷3¬AC÷4¬CX÷Солихалл¬RW÷0¬AX÷0¬BX÷-1¬WQ÷¬WM÷SOL¬AE÷Солихалл¬JA÷WS7Jjav5¬WU÷solihull¬GRA÷0¬WN÷WEY¬AF÷Веймут¬JB÷r3BNkJgB¬WV÷weymouth¬GRB÷0¬
+
+~AA÷dGJzzgxd¬AD÷1611085500¬ADE÷1611085500¬AB÷3¬CR÷3¬AC÷4¬CX÷Уэлдстоун¬RW÷0¬AX÷0¬AO÷1610799714¬BX÷-1¬WQ÷¬WM÷WEA¬AE÷Уэлдстоун¬JA÷I19o06Cf¬WU÷wealdstone¬GRA÷0¬WN÷DOV¬AF÷Довер¬JB÷dh8kaQR0¬WV÷dover-ath¬GRB÷0¬AM÷Перенесен из-за Кубка ФА.¬
+
+~ZA÷АНГЛИЯ: Национальная лига Север¬ZEE÷rsMtLd7e¬ZB÷198¬ZY÷Англия¬ZC÷jmWZzX2n¬ZD÷c¬ZE÷pMLJZDF1¬ZF÷0¬ZO÷1¬ZG÷1¬ZH÷198_rsMtLd7e¬ZJ÷2¬ZL÷/football/england/national-league-north/¬ZX÷00Англия      006Англия0050000000001000Национальная023 Север000¬ZCC÷0¬ZAF÷Англия¬
+
+~AA÷fJav9qao¬AD÷1611085500¬ADE÷1611085500¬AB÷3¬CR÷3¬AC÷4¬CX÷Бостон Юнайтед¬RW÷0¬AX÷0¬AO÷1610534140¬BX÷-1¬WQ÷¬WM÷БОС¬AE÷Бостон Юнайтед¬JA÷Ag5fNONJ¬WU÷boston-united¬GRA÷0¬WN÷SPE¬AF÷Спеннимур¬JB÷8vOcMrwQ¬WV÷spennymoor¬GRB÷0¬
+
+~AA÷6iYYbKxU¬AD÷1611085500¬ADE÷1611085500¬AB÷2¬CR÷2¬AC÷13¬CX÷Брэдфорд Парк Авеню¬RW÷0¬AI÷y¬AX÷0¬AO÷1611089197¬BX÷¬WQ÷¬WN÷ЧЕС¬AF÷Честер¬JB÷WfvEitiI¬WV÷chester¬GRB÷0¬AH÷2¬BB÷2¬BD÷0¬WM÷BRA¬AE÷Брэдфорд Парк Авеню¬JA÷h4uAhMyC¬WU÷bradford-pa¬GRA÷0¬AG÷0¬BA÷0¬BC÷0¬AN÷y¬MW÷454|453|471|417|16¬
+
+~ZA÷АНГЛИЯ: Национальная лига Юг¬ZEE÷QPXiMdx8¬ZB÷198¬ZY÷Англия¬ZC÷dvzUWSWN¬ZD÷c¬ZE÷lvQrcexL¬ZF÷0¬ZO÷1¬ZG÷1¬ZH÷198_QPXiMdx8¬ZJ÷2¬ZL÷/football/england/national-league-south/¬ZX÷00Англия      006Англия0060000000001000Национальная020ига Юг000¬ZCC÷0¬ZAF÷Англия¬
+
+~AA÷rV8zUiIr¬AD÷1611085500¬ADE÷1611085500¬AB÷2¬CR÷2¬AC÷13¬CX÷Бат¬RW÷0¬AI÷y¬AX÷0¬AO÷1611089473¬BX÷¬WQ÷¬WN÷HAV¬AF÷Хавант энд В¬JB÷KObLWmo3¬WV÷havant-waterlooville¬GRB÷0¬AH÷1¬BB÷1¬BD÷0¬WM÷БАТ¬AE÷Бат¬JA÷tYaHXTVd¬WU÷bath-city¬GRA÷0¬AG÷2¬BA÷2¬BC÷0¬AN÷y¬MW÷454|453|471|417|16¬
+
+~AA÷Qmsz6oVa¬AD÷1611085500¬ADE÷1611085500¬AB÷2¬CR÷2¬AC÷13¬CX÷Биллерике¬RW÷0¬AI÷y¬AX÷0¬AO÷1611089314¬BX÷¬WQ÷¬WN÷CHE¬AF÷Челмсфорд¬JB÷zDtmH2n9¬WV÷chelmsford¬GRB÷0¬AH÷2¬BB÷2¬BD÷0¬WM÷BIL¬AE÷Биллерике¬JA÷dMsqIrX2¬WU÷billericay¬GRA÷0¬AG÷3¬BA÷3¬BC÷0¬AN÷y¬MW÷454|453|471|417|16¬
+
+~AA÷KSDqMcLc¬AD÷1611085500¬ADE÷1611085500¬AB÷2¬CR÷2¬AC÷13¬CX÷Мэйдстоун¬RW÷0¬AI÷y¬AX÷0¬AO÷1611089443¬BX÷¬WQ÷¬WN÷BRA¬AF÷Брэйнтри¬JB÷IZxHXrlm¬WV÷braintree¬GRB÷0¬AH÷2¬BB÷2¬BD÷0¬WM÷MAI¬AE÷Мэйдстоун¬JA÷4WYCYOYt¬WU÷maidstone¬GRA÷0¬AG÷0¬BA÷0¬BC÷0¬AN÷y¬MW÷454|453|471|417|16¬
+
+~AA÷67b5LQUn¬AD÷1611085500¬ADE÷1611085500¬AB÷2¬CR÷2¬AC÷13¬CX÷Слау¬RW÷0¬AI÷y¬AX÷0¬AO÷1611089445¬BX÷¬WQ÷¬WN÷EBB¬AF÷Эббсфлит Юнайтед¬JB÷4h0466kl¬WV÷ebbsfleet¬GRB÷0¬AH÷1¬BB÷1¬BD÷0¬WM÷SLO¬AE÷Слау¬JA÷jkd07nzr¬WU÷slough-town¬GRA÷0¬AG÷0¬BA÷0¬BC÷0¬AN÷y¬MW÷454|453|471|417|16¬
+
+~AA÷WvgUQ1PF¬AD÷1611085500¬ADE÷1611085500¬AB÷2¬CR÷2¬AC÷13¬CX÷Хемел Хэмпстед¬RW÷0¬AI÷y¬AX÷0¬AO÷1611089129¬BX÷¬WQ÷¬WN÷OXF¬AF÷Оксфорд Сити¬JB÷Y30wMu3e¬WV÷oxford-city¬GRB÷0¬AH÷1¬BB÷1¬BD÷0¬WM÷HEM¬AE÷Хемел Хэмпстед¬JA÷fD1ZMLmk¬WU÷hemel-hempstead¬GRA÷0¬AG÷3¬BA÷2¬BC÷1¬AN÷y¬MW÷454|453|471|417|16¬
+
+~ZA÷АНГЛИЯ: Лига Истмиан - Премьер дивизион¬ZEE÷A5UEIPnl¬ZB÷198¬ZY÷Англия¬ZC÷A1I9IhB2¬ZD÷c¬ZE÷CAx16vum¬ZF÷0¬ZO÷0¬ZG÷1¬ZH÷198_A5UEIPnl¬ZJ÷2¬ZL÷/football/england/isthmian-league-premier-division/¬ZX÷00Англия      006Англия0100000000001000Лига Истмиан031визион000¬ZCC÷0¬ZAF÷Англия¬
+
+~AA÷6J0dAusS¬AD÷1611085500¬ADE÷1611085500¬AB÷3¬CR÷3¬AC÷4¬CX÷Бонор Реджис¬RW÷0¬AX÷0¬BX÷-1¬WQ÷¬WM÷BOG¬AE÷Бонор Реджис¬JA÷Ct2IGOTq¬WU÷bognor-regis¬GRA÷0¬WN÷BOW¬AF÷Боуэрс & Питси¬JB÷631MFrqj¬WV÷bowers-pitsea¬GRB÷0¬
+
+~AA÷zVUt0kKD¬AD÷1611085500¬ADE÷1611085500¬AB÷3¬CR÷3¬AC÷4¬CX÷Льюиз¬RW÷0¬AX÷0¬BX÷-1¬WQ÷¬WM÷LEW¬AE÷Льюиз¬JA÷CGh0M2Jl¬WU÷lewes¬GRA÷0¬WN÷CAR¬AF÷Каршальтон¬JB÷Kth4LMYf¬WV÷carshalton¬GRB÷0¬
+
+~AA÷zXNoMibU¬AD÷1611085500¬ADE÷1611085500¬AB÷3¬CR÷3¬AC÷4¬CX÷Мерстам¬RW÷0¬AX÷0¬BX÷-1¬WQ÷¬WM÷MER¬AE÷Мерстам¬JA÷Y7tO3CPr¬WU÷merstham¬GRA÷0¬WN÷MAR¬AF÷Маргейт¬JB÷2soS2Wvk¬WV÷margate¬GRB÷0¬
+
+~AA÷8MeudqNA¬AD÷1611085500¬ADE÷1611085500¬AB÷3¬CR÷3¬AC÷4¬CX÷Уэртинг¬RW÷0¬AX÷0¬BX÷-1¬WQ÷¬WM÷WOR¬AE÷Уэртинг¬JA÷dSUFyuOa¬WU÷worthing-fc¬GRA÷0¬WN÷СТР¬AF÷Бишопс Стортфорд¬JB÷jkUJzaw6¬WV÷stortford¬GRB÷0¬
+
+~ZA÷АНГЛИЯ: Лига профессионального развития¬ZEE÷8WehgikI¬ZB÷198¬ZY÷Англия¬ZC÷OGvt9qHJ¬ZD÷c¬ZE÷SSaq9Vp4¬ZF÷0¬ZO÷0¬ZG÷1¬ZH÷198_8WehgikI¬ZJ÷2¬ZL÷/football/england/professional-development-league/¬ZX÷00Англия      006Англия0130000000001000Лига професс031звития000¬ZCC÷0¬ZAF÷Англия¬
+
+~AA÷U5L0q5dE¬AD÷1611061200¬ADE÷1611061200¬AB÷3¬CR÷3¬AC÷3¬CX÷Кардифф U23¬RW÷0¬AX÷0¬AO÷1611067858¬BX÷-1¬WQ÷¬WM÷CAR¬AE÷Кардифф U23¬JA÷IgcMDiAj¬WU÷cardiff¬AS÷1¬AZ÷1¬GRA÷0¬AG÷2¬BA÷0¬BC÷2¬WN÷SWA¬AF÷Суонси U23¬JB÷Wdo4xymi¬WV÷swansea¬AK÷1¬GRB÷0¬AH÷1¬BB÷1¬BD÷0¬
+
+~AA÷8xAMSrxm¬AD÷1611064800¬ADE÷1611064800¬AB÷3¬CR÷3¬AC÷3¬CX÷Барнсли U23¬RW÷0¬AX÷0¬AO÷1611071020¬BX÷-1¬WQ÷¬WM÷BAR¬AE÷Барнсли U23¬JA÷hdVw26tK¬WU÷barnsley¬GRA÷0¬AG÷0¬BA÷0¬BC÷0¬WN÷NOT¬AF÷Ноттингем Форест U23¬JB÷nJUs1QeQ¬WV÷nottingham¬AS÷2¬AZ÷2¬GRB÷0¬AH÷3¬BB÷3¬BD÷0¬
+
+~AA÷j1FHTOMt¬AD÷1611064800¬ADE÷1611064800¬AB÷3¬CR÷3¬AC÷3¬CX÷КПР U23¬RW÷0¬AX÷0¬AO÷1611071335¬BX÷-1¬WQ÷¬WM÷QPR¬AE÷КПР U23¬JA÷0lThv3lD¬WU÷qpr¬GRA÷0¬AG÷1¬BA÷0¬BC÷1¬WN÷CHA¬AF÷Чарльтон U23¬JB÷E5WZ2nRD¬WV÷charlton¬AS÷2¬AZ÷2¬GRB÷0¬AH÷2¬BB÷2¬BD÷0¬
+
+~ZA÷АНГЛИЯ: Кубок ФА¬ZEE÷lYQtaqPQ¬ZB÷198¬ZY÷Англия¬ZC÷fJmYUyhB¬ZD÷p¬ZE÷GQkHO5TL¬ZF÷0¬ZO÷0¬ZG÷2¬ZH÷198_lYQtaqPQ¬ZJ÷2¬ZL÷/football/england/fa-cup/¬ZX÷00Англия      006Англия0160000000001000Кубок ФА    008бок ФА000¬ZCC÷0¬ZAF÷Англия¬
+
+~AA÷O6y3zdjE¬AD÷1611086400¬ADE÷1611086400¬AB÷2¬CR÷2¬AC÷38¬CX÷Саутгемптон¬RW÷0¬AI÷y¬AX÷1¬AO÷1611089177¬BX÷-1¬WQ÷¬WN÷ШРУ¬AF÷Шрусбери Таун¬JB÷zuLSLZJ7¬WV÷shrewsbury¬GRB÷0¬AH÷0¬BB÷0¬WM÷САУ¬AE÷Саутгемптон¬JA÷dlMOMF41¬WU÷southampton¬GRA÷0¬AG÷1¬BA÷1¬AL÷{"1":[{"TVI":717,"BU":"http:\/\/matchtv.ru\/","BN":"\u041c\u0430\u0442\u0447 \u0424\u0443\u0442\u0431\u043e\u043b"}],"2":[{"BU":"\/bookmaker\/16\/?from=live-streaming&sport=0","IU":"\/res\/image\/data\/bookmakers\/17-16.png","BN":"bet365","BI":16,"BT":"GEO restrictions apply. Funded account required or to have placed a bet in the last 24 hours. GamblingTherapy.org. 18+"},{"BU":"\/bookmaker\/454\/?from=live-streaming&sport=0","IU":"\/res\/image\/data\/bookmakers\/17-454.png","BN":"Winline","BI":454}]}¬BGS÷{"GB":[16]}¬AW÷1¬AN÷y¬MW÷454|453|471|417|16¬
+
+~ZA÷АНГЛИЯ: Трофей ФА¬ZEE÷QyiV55Xs¬ZB÷198¬ZY÷Англия¬ZC÷IkSyoy74¬ZD÷c¬ZE÷A1fLtRD2¬ZF÷0¬ZO÷0¬ZG÷2¬ZH÷198_QyiV55Xs¬ZJ÷2¬ZL÷/football/england/fa-trophy/¬ZX÷00Англия      006Англия0170000000001000Трофей ФА   009фей ФА000¬ZCC÷0¬ZAF÷Англия¬
+
+~AA÷xppyzXHe¬AD÷1611082800¬ADE÷1611082800¬AB÷3¬CR÷3¬AC÷3¬CX÷Алдершот Таун¬RW÷0¬AX÷0¬AO÷1611089765¬BX÷-1¬WQ÷¬WN÷SOL¬AF÷Солихалл¬JB÷M5GB63Oh¬WV÷solihull¬GRB÷0¬AH÷2¬BB÷0¬BD÷2¬WM÷ALD¬AE÷Алдершот Таун¬JA÷rFH77q9n¬WU÷aldershot¬AS÷1¬AZ÷1¬GRA÷0¬AG÷3¬BA÷2¬BC÷1¬
+
+~AA÷4ftNiwpC¬AD÷1611082800¬ADE÷1611082800¬AB÷3¬CR÷3¬AC÷3¬CX÷Борхэм Вуд¬RW÷0¬AX÷0¬AO÷1611089568¬BX÷-1¬WQ÷¬WM÷BOR¬AE÷Борхэм Вуд¬JA÷xSilChs6¬WU÷boreham-wood¬GRA÷0¬AG÷0¬BA÷0¬BC÷0¬WN÷TOR¬AF÷Торки Юнайтед¬JB÷jVehBCdC¬WV÷torquay¬AS÷2¬AZ÷2¬BZ÷1¬GRB÷0¬AH÷4¬BB÷0¬BD÷4¬
+
+~AA÷UwXMczA2¬AD÷1611082800¬ADE÷1611082800¬AB÷3¬CR÷3¬AC÷3¬CX÷Галифакс Таун¬RW÷0¬AX÷0¬AO÷1611089587¬BX÷-1¬WQ÷¬WM÷HAL¬AE÷Галифакс Таун¬JA÷OhJN318B¬WU÷halifax¬GRA÷0¬AG÷1¬BA÷1¬BC÷0¬WN÷SOU¬AF÷Саутпорт¬JB÷MwxR2LNH¬WV÷southport¬AS÷2¬AZ÷2¬BZ÷1¬GRB÷0¬AH÷2¬BB÷1¬BD÷1¬
+
+~AA÷KOXZ04Wu¬AD÷1611085500¬ADE÷1611085500¬AB÷2¬CR÷2¬AC÷13¬CX÷Бромли¬RW÷0¬AI÷y¬AX÷0¬AO÷1611089152¬BX÷¬WQ÷¬WN÷WOK¬AF÷Уокинг¬JB÷fTmG8HD2¬WV÷woking¬GRB÷0¬AH÷1¬BB÷0¬BD÷1¬WM÷BRO¬AE÷Бромли¬JA÷tQaYqYz2¬WU÷bromley¬GRA÷0¬AG÷1¬BA÷0¬BC÷1¬AN÷y¬MW÷454|453|471|417¬
+
+~AA÷4dPZfYgL¬AD÷1611085500¬ADE÷1611085500¬AB÷2¬CR÷2¬AC÷38¬CX÷Кеттеринг¬RW÷0¬AI÷y¬AX÷0¬AO÷1611088431¬BX÷-1¬WQ÷¬WN÷LEA¬AF÷Лимингтон¬JB÷htJjJt8b¬WV÷leamington¬GRB÷0¬AH÷3¬BB÷3¬WM÷KET¬AE÷Кеттеринг¬JA÷vwFnKMhh¬WU÷kettering¬AJ÷1¬GRA÷0¬AG÷0¬BA÷0¬AM÷Прерван из-за технических проблем.¬AN÷y¬
+
+~AA÷GzquZjX1¬AD÷1611085500¬ADE÷1611085500¬AB÷2¬CR÷2¬AC÷13¬CX÷Стэмфорд¬RW÷0¬AI÷y¬AX÷0¬AO÷1611089451¬BX÷¬WQ÷¬WM÷STA¬AE÷Стэмфорд¬JA÷juLF5Nwa¬WU÷stamford¬GRA÷0¬AG÷0¬BA÷0¬BC÷0¬WN÷ХЕР¬AF÷Херефорд¬JB÷UVJJ4sg5¬WV÷hereford¬GRB÷0¬AH÷1¬BB÷1¬BD÷0¬AN÷y¬MW÷454|453|471|417¬
+
+~ZA÷АРГЕНТИНА: Примера Насьональ - Квалификация - плей-офф¬ZEE÷QTNHA4p4¬ZB÷22¬ZY÷Аргентина¬ZC÷tvNX1Ips¬ZD÷c¬ZE÷Msi7g55M¬ZF÷0¬ZO÷0¬ZG÷2¬ZH÷22_QTNHA4p4¬ZJ÷16¬ZL÷/football/argentina/primera-nacional/¬ZX÷00Аргентина   009ентина0020000000001000Примера Нась043ей-офф000¬ZCC÷0¬ZAF÷Аргентина¬
+
+~AA÷SdLWYfxp¬AD÷1611000600¬ADE÷1611000600¬AB÷3¬CR÷3¬AC÷3¬CX÷Агропекуарио¬RW÷0¬AX÷1¬AO÷1611007662¬BX÷-1¬WQ÷¬WM÷АГР¬AE÷Агропекуарио¬JA÷0ftHyCZK¬WU÷agropecuario¬GRA÷0¬AG÷0¬BA÷0¬BC÷0¬WN÷QUI¬AF÷Кильмес¬JB÷vouLzWlR¬WV÷quilmes¬AS÷2¬AZ÷2¬BZ÷1¬GRB÷0¬AH÷1¬BB÷0¬BD÷1¬AM÷Нейтральное поле.¬
+
+~ZA÷АРГЕНТИНА: Торнео Федерал - Квалификационные финалы¬ZEE÷l06JrDh6¬ZB÷22¬ZY÷Аргентина¬ZC÷Qa2fmScQ¬ZD÷c¬ZE÷4AbD9TOA¬ZF÷0¬ZO÷0¬ZG÷2¬ZH÷22_l06JrDh6¬ZJ÷85¬ZL÷/football/argentina/torneo-federal/¬ZX÷00Аргентина   009ентина0030000000001000Торнео Федер040финалы000¬ZCC÷0¬ZAF÷Аргентина¬
+
+~AA÷OOEuXY6d¬AD÷1611000600¬ADE÷1611000600¬AB÷3¬CR÷3¬AC÷11¬CX÷Клуб А. Гермес¬RW÷0¬AX÷0¬AO÷1611008376¬BX÷-1¬WQ÷¬WN÷VIL¬AF÷Вилла Митре¬JB÷4jVfUTRf¬WV÷villa-mitre¬AZ÷0¬AK÷1¬GRB÷0¬AH÷1¬AU÷1¬BB÷0¬BD÷1¬WM÷CAG¬AE÷Клуб А. Гермес¬JA÷IgZbTms1¬WU÷club-atletico-guemes¬AS÷1¬AZ÷0¬BY÷2¬AJ÷1¬GRA÷0¬AG÷2¬AT÷1¬BA÷0¬BC÷1¬
+
+~ZA÷АРГЕНТИНА: Примера Б - Квалификация - плей-офф¬ZEE÷GKJrZE7I¬ZB÷22¬ZY÷Аргентина¬ZC÷WfxczkEK¬ZD÷c¬ZE÷6apLsPKS¬ZF÷0¬ZO÷0¬ZG÷2¬ZH÷22_GKJrZE7I¬ZJ÷16¬ZL÷/football/argentina/primera-b/¬ZX÷00Аргентина   009ентина0040000000001000Примера Б - 035ей-офф000¬ZCC÷0¬ZAF÷Аргентина¬
+
+~AA÷fa7Jd0i2¬AD÷1611000600¬ADE÷1611000600¬AB÷3¬CR÷3¬AC÷3¬CX÷Тристан Суарес¬RW÷0¬AX÷0¬AO÷1611007670¬BX÷-1¬WQ÷¬WM÷TRI¬AE÷Тристан Суарес¬JA÷h2WuoHpE¬WU÷tristan-suarez¬AS÷1¬AZ÷1¬BY÷1¬AJ÷1¬GRA÷0¬AG÷1¬BA÷0¬BC÷1¬WN÷COM¬AF÷Комуникасьонес¬JB÷2Bb9TlFt¬WV÷comunicaciones¬AK÷2¬GRB÷0¬AH÷0¬BB÷0¬BD÷0¬
+
+~AA÷td3Fctxd¬AD÷1611015000¬ADE÷1611015000¬AB÷3¬CR÷3¬AC÷3¬CX÷Хусто Хосе де Уркиса¬RW÷0¬AX÷0¬AO÷1611022890¬BX÷-1¬WQ÷¬WM÷JUS¬AE÷Хусто Хосе де Уркиса¬JA÷08qfNDh7¬WU÷justo-jose-de-urquiza¬GRA÷0¬AG÷0¬BA÷0¬BC÷0¬WN÷TEL¬AF÷Сан-Тельмо¬JB÷varbMX7D¬WV÷san-telmo¬AS÷2¬AZ÷2¬BZ÷1¬GRB÷0¬AH÷4¬BB÷3¬BD÷1¬
+
+~ZA÷АРГЕНТИНА: Примера D - Квалификация - плей-офф¬ZEE÷dATITIRg¬ZB÷22¬ZY÷Аргентина¬ZC÷MF5stpj0¬ZD÷c¬ZE÷8GCGRl9i¬ZF÷0¬ZO÷0¬ZG÷2¬ZH÷22_dATITIRg¬ZJ÷16¬ZL÷/football/argentina/primera-d/¬ZX÷00Аргентина   009ентина0060000000001000Примера D - 035ей-офф000¬ZCC÷0¬ZAF÷Аргентина¬
+
+~AA÷SM4RTm0H¬AD÷1611000600¬ADE÷1611000600¬AB÷3¬CR÷3¬AC÷3¬CX÷Атлас¬RW÷0¬AX÷0¬AO÷1611007212¬BX÷-1¬WQ÷¬WM÷ATL¬AE÷Атлас¬JA÷QoB1i9nk¬WU÷atlas¬AS÷1¬AZ÷1¬BY÷1¬GRA÷0¬AG÷1¬BA÷0¬BC÷1¬WN÷DEF¬AF÷Деф. де Камбасерес¬JB÷vkF5jT1e¬WV÷defensores-de-cambaceres¬AK÷1¬GRB÷0¬AH÷0¬BB÷0¬BD÷0¬
+
+~AA÷Ya5NUTpB¬AD÷1611000600¬ADE÷1611000600¬AB÷3¬CR÷3¬AC÷3¬CX÷Депортиво Парагвайо¬RW÷0¬AX÷0¬AO÷1611007551¬BX÷-1¬WQ÷¬WM÷DEP¬AE÷Депортиво Парагвайо¬JA÷UFPVdVOR¬WU÷deportivo-paraguayo¬AS÷1¬AZ÷1¬BY÷1¬GRA÷0¬AG÷3¬BA÷2¬BC÷1¬WN÷LUG¬AF÷Лугано¬JB÷WOBchkXr¬WV÷ca-lugano¬GRB÷0¬AH÷1¬BB÷0¬BD÷1¬
+
+~AA÷6D3VS7FN¬AD÷1611000600¬ADE÷1611000600¬AB÷3¬CR÷3¬AC÷11¬CX÷Спортиво Барракас¬RW÷0¬AX÷0¬AO÷1611008710¬BX÷-1¬WQ÷¬WM÷SPO¬AE÷Спортиво Барракас¬JA÷YBE9kmH1¬WU÷sportivo-barracas¬AS÷1¬AZ÷0¬BY÷1¬GRA÷0¬AG÷1¬AT÷0¬BA÷0¬BC÷0¬WN÷CSR¬AF÷Эспаньол¬JB÷C2DDl7W7¬WV÷csr-espanol¬AZ÷0¬GRB÷0¬AH÷0¬AU÷0¬BB÷0¬BD÷0¬
+
+~ZA÷АФРИКА: Чемпионат африканских наций¬ZEE÷fZS33RAH¬ZB÷1¬ZY÷Африка¬ZC÷AuZlotWi¬ZD÷p¬ZE÷hQF2OO7Q¬ZF÷0¬ZO÷0¬ZG÷1¬ZH÷1_fZS33RAH¬ZJ÷2¬ZL÷/football/africa/african-nations-championship/¬ZX÷00Африка      006Африка0040000000001000Чемпионат аф027 наций000¬ZCC÷0¬ZAF÷Африка¬
+
+~AA÷0xbExRkm¬AD÷1611072000¬ADE÷1611072000¬AB÷3¬CR÷3¬AC÷3¬CX÷Замбия¬RW÷0¬AX÷1¬AO÷1611078743¬BX÷-1¬WQ÷¬WM÷ZAM¬AE÷Замбия¬JA÷vBQToeAJ¬WU÷zambia¬AS÷1¬AZ÷1¬GRA÷0¬AG÷2¬BA÷0¬BC÷2¬WN÷TAN¬AF÷Танзания¬JB÷I1PXpFPP¬WV÷tanzania¬GRB÷0¬AH÷0¬BB÷0¬BD÷0¬
+
+~AA÷UB2Iyo5g¬AD÷1611082800¬ADE÷1611082800¬AB÷3¬CR÷3¬AC÷3¬CX÷Гвинея¬RW÷0¬AX÷1¬AO÷1611089479¬BX÷-1¬WQ÷¬WM÷GUI¬AE÷Гвинея¬JA÷zeRbtZXt¬WU÷guinea¬AS÷1¬AZ÷1¬GRA÷0¬AG÷3¬BA÷2¬BC÷1¬WN÷NAM¬AF÷Намибия¬JB÷EoQ2ugmm¬WV÷namibia¬GRB÷0¬AH÷0¬BB÷0¬BD÷0¬
+
+~ZA÷БАНГЛАДЕШ: Премьер-лига¬ZEE÷ANxldAMe¬ZB÷29¬ZY÷Бангладеш¬ZC÷Aym5HXRb¬ZD÷c¬ZE÷4f0sQED9¬ZF÷0¬ZO÷0¬ZG÷1¬ZH÷29_ANxldAMe¬ZJ÷2¬ZL÷/football/bangladesh/premier-league/¬ZX÷00Бангладеш   009гладеш0000000000001000Премьер-лига012р-лига000¬ZCC÷0¬ZAF÷Бангладеш¬
+
+~AA÷lOFmwMoP¬AD÷1611048600¬ADE÷1611048600¬AB÷3¬CR÷3¬AC÷3¬CX÷Бангладеш Полис¬RW÷0¬AX÷1¬AO÷1611055360¬BX÷-1¬WQ÷¬WM÷БАН¬AE÷Бангладеш Полис¬JA÷OUvDyZ8H¬WU÷bangladesh-police¬GRA÷0¬AG÷1¬BA÷1¬BC÷0¬WN÷БАШ¬AF÷Башундара Кингс¬JB÷2LwHzgON¬WV÷bashundara-kings¬AS÷2¬AZ÷2¬GRB÷0¬AH÷2¬BB÷2¬BD÷0¬
+
+~AA÷OG6FYuft¬AD÷1611057600¬ADE÷1611057600¬AB÷3¬CR÷3¬AC÷3¬CX÷Бразерс Юнион¬RW÷0¬AX÷1¬AO÷1611064316¬BX÷-1¬WQ÷¬WM÷BRO¬AE÷Бразерс Юнион¬JA÷drwLZCwU¬WU÷brothers-u¬GRA÷0¬AG÷0¬BA÷0¬BC÷0¬WN÷ABA¬AF÷Абахани Лимитед¬JB÷WzUnVWoo¬WV÷abahani-limited¬AS÷2¬AZ÷2¬GRB÷0¬AH÷2¬BB÷2¬BD÷0¬
+
+~ZA÷БЕЛЬГИЯ: Высшая лига¬ZEE÷dG2SqPrf¬ZB÷32¬ZY÷Бельгия¬ZC÷lxRJcNej¬ZD÷p¬ZE÷GrPnJjLk¬ZF÷0¬ZO÷1¬ZG÷1¬ZH÷32_dG2SqPrf¬ZJ÷2¬ZL÷/football/belgium/jupiler-league/¬ZX÷00Бельгия     007ельгия0000000000001000Высшая лига 011я лига000¬ZCC÷0¬ZAF÷Бельгия¬
+
+~AA÷r5BBIR3t¬AD÷1611078300¬ADE÷1611078300¬AB÷3¬CR÷3¬AC÷3¬CX÷Мускрон¬RW÷0¬AX÷1¬AO÷1611085090¬BX÷-1¬WQ÷¬WM÷MOU¬AE÷Мускрон¬JA÷vmAby2o6¬WU÷royal-excel-mouscron¬AS÷0¬AZ÷0¬GRA÷0¬AG÷1¬BA÷0¬BC÷1¬WN÷WAA¬AF÷Васланд-Беверен¬JB÷hjE2zM0C¬WV÷waasland-beveren¬AS÷0¬AZ÷0¬GRB÷0¬AH÷1¬BB÷0¬BD÷1¬AW÷1¬
+
+~AA÷QqVPpeo6¬AD÷1611086400¬ADE÷1611086400¬AB÷2¬CR÷2¬AC÷38¬CX÷Андерлехт¬RW÷0¬AI÷y¬AX÷1¬AO÷1611089308¬BX÷-1¬WQ÷¬WN÷ШАР¬AF÷Шарлеруа¬JB÷IX5cu20P¬WV÷charleroi¬GRB÷0¬AH÷0¬BB÷0¬WM÷AND¬AE÷Андерлехт¬JA÷4UHFGINO¬WU÷anderlecht¬GRA÷0¬AG÷2¬BA÷2¬AL÷{"2":[{"BU":"\/bookmaker\/16\/?from=live-streaming&sport=0","IU":"\/res\/image\/data\/bookmakers\/17-16.png","BN":"bet365","BI":16,"BT":"GEO restrictions apply. Funded account required or to have placed a bet in the last 24 hours. GamblingTherapy.org. 18+"},{"BU":"\/bookmaker\/454\/?from=live-streaming&sport=0","IU":"\/res\/image\/data\/bookmakers\/17-454.png","BN":"Winline","BI":454}]}¬AW÷1¬AN÷y¬MW÷454|453|471|417|16¬
+
+~ZA÷БРАЗИЛИЯ: Чемпионат Бразилии¬ZEE÷Yq4hUnzQ¬ZB÷39¬ZY÷Бразилия¬ZC÷UqQAsgm6¬ZD÷p¬ZE÷4pP4CTWM¬ZF÷0¬ZO÷0¬ZG÷1¬ZH÷39_Yq4hUnzQ¬ZJ÷2¬ZL÷/football/brazil/serie-a/¬ZX÷00Бразилия    008азилия0000000000001000Чемпионат Бр018азилии000¬ZCC÷0¬ZAF÷Бразилия¬
+
+~AA÷hb3urGzm¬AD÷1611007200¬ADE÷1611007200¬AB÷3¬CR÷3¬AC÷3¬CX÷Палмейрас¬RW÷0¬AX÷1¬AO÷1611014032¬BX÷-1¬WQ÷¬WM÷PAL¬AE÷Палмейрас¬JA÷GWmfdGGh¬WU÷palmeiras¬AS÷1¬AZ÷1¬GRA÷0¬AG÷4¬BA÷2¬BC÷2¬WN÷COR¬AF÷Коринтианс¬JB÷UZibezWb¬WV÷corinthians¬AK÷1¬GRB÷0¬AH÷0¬BB÷0¬BD÷0¬AW÷1¬
+
+~AA÷Wj9qZcFT¬AD÷1611010800¬ADE÷1611010800¬AB÷3¬CR÷3¬AC÷3¬CX÷Гояс¬RW÷0¬AX÷1¬AO÷1611017714¬BX÷-1¬WQ÷¬WM÷GOI¬AE÷Гояс¬JA÷dp20GdPL¬WU÷goias¬GRA÷0¬AG÷0¬BA÷0¬BC÷0¬WN÷FLA¬AF÷Фламенго¬JB÷zy14FGvS¬WV÷flamengo-rj¬AS÷2¬AZ÷2¬GRB÷0¬AH÷3¬BB÷1¬BD÷2¬AW÷1¬
+
+~ZA÷БРАЗИЛИЯ: Чемпионат Бразилии В¬ZEE÷vRtLP6rs¬ZB÷39¬ZY÷Бразилия¬ZC÷8zPEtD2C¬ZD÷p¬ZE÷ryO8BmnT¬ZF÷0¬ZO÷1¬ZG÷1¬ZH÷39_vRtLP6rs¬ZJ÷2¬ZL÷/football/brazil/serie-b/¬ZX÷00Бразилия    008азилия0010000000001000Чемпионат Бр020илии В000¬ZCC÷0¬ZAF÷Бразилия¬
+
+~AA÷K0acD9vB¬AD÷1611082800¬ADE÷1611082800¬AB÷2¬CR÷2¬AC÷13¬CX÷Бразил де Пелотас¬RW÷0¬AI÷y¬AX÷1¬AO÷1611086779¬BX÷¬WQ÷¬WN÷AME¬AF÷Америка МГ¬JB÷GQYaQnv9¬WV÷america-mg¬GRB÷0¬AH÷0¬BB÷0¬BD÷0¬WM÷GEB¬AE÷Бразил де Пелотас¬JA÷xzzdRSO2¬WU÷brasil-de-pelotas¬AJ÷1¬GRA÷0¬AG÷0¬BA÷0¬BC÷0¬AL÷{"2":[{"BU":"\/bookmaker\/16\/?from=live-streaming&sport=0","IU":"\/res\/image\/data\/bookmakers\/17-16.png","BN":"bet365","BI":16,"BT":"GEO restrictions apply. Funded account required or to have placed a bet in the last 24 hours. GamblingTherapy.org. 18+"},{"BU":"\/bookmaker\/454\/?from=live-streaming&sport=0","IU":"\/res\/image\/data\/bookmakers\/17-454.png","BN":"Winline","BI":454}]}¬AW÷1¬AN÷y¬MW÷454|453|471|417|16¬
+
+~ZA÷ГЕРМАНИЯ: Бундеслига¬ZEE÷W6BOzpK2¬ZB÷81¬ZY÷Германия¬ZC÷bk1Zgnfk¬ZD÷t¬ZE÷WjH7u1E5¬ZF÷0¬ZO÷1¬ZG÷1¬ZH÷81_W6BOzpK2¬ZJ÷2¬ZL÷/football/germany/bundesliga/¬ZX÷00Германия    008рмания0000000000001000Бундеслига  010еслига000¬ZCC÷0¬ZAF÷Германия¬
+
+~AA÷EyWOCLD6¬AD÷1611077400¬ADE÷1611077400¬AB÷3¬CR÷3¬AC÷3¬CX÷Боруссия М¬RW÷0¬AX÷1¬AO÷1611084151¬BX÷-1¬WQ÷¬WM÷МЁН¬AE÷Боруссия М¬JA÷fsJZwYi9¬WU÷b-monchengladbach¬AS÷1¬AZ÷1¬GRA÷0¬AG÷1¬BA÷0¬BC÷1¬WN÷ВЕР¬AF÷Вердер¬JB÷YXHwwh7F¬WV÷werder-bremen¬GRB÷0¬AH÷0¬BB÷0¬BD÷0¬AW÷1¬
+
+~AA÷d0LTBuTC¬AD÷1611084600¬ADE÷1611084600¬AB÷2¬CR÷2¬AC÷13¬CX÷Байер¬RW÷0¬AI÷y¬AX÷1¬AO÷1611088405¬BX÷¬WQ÷¬WN÷ДОР¬AF÷Боруссия Д¬JB÷tbLoyWyS¬WV÷dortmund¬GRB÷0¬AH÷1¬BB÷0¬BD÷1¬WM÷БАЙ¬AE÷Байер¬JA÷27MsxCML¬WU÷bayer-leverkusen¬GRA÷0¬AG÷1¬BA÷1¬BC÷0¬AL÷{"1":[{"TVI":579,"BU":"http:\/\/matchtv.ru\/","BN":"\u041c\u0430\u0442\u0447 \u0422\u0412"}],"2":[{"BU":"\/bookmaker\/16\/?from=live-streaming&sport=0","IU":"\/res\/image\/data\/bookmakers\/17-16.png","BN":"bet365","BI":16,"BT":"GEO restrictions apply. Funded account required or to have placed a bet in the last 24 hours. GamblingTherapy.org. 18+"},{"BU":"\/bookmaker\/486\/?from=live-streaming&sport=0","IU":"\/res\/image\/data\/bookmakers\/17-486.png","BN":"Olimp.bet","BI":486},{"BU":"\/bookmaker\/561\/?from=live-streaming&sport=0","IU":"\/res\/image\/data\/bookmakers\/17-561.png","BN":"Olimpbet.kz","BI":561},{"BU":"\/bookmaker\/454\/?from=live-streaming&sport=0","IU":"\/res\/image\/data\/bookmakers\/17-454.png","BN":"Winline","BI":454}]}¬AW÷1¬AN÷y¬MW÷454|453|471|417|16¬
+
+~AA÷KCyuJdzt¬AD÷1611084600¬ADE÷1611084600¬AB÷2¬CR÷2¬AC÷13¬CX÷Герта¬RW÷0¬AI÷y¬AX÷1¬AO÷1611088576¬BX÷¬WQ÷¬WN÷ХОФ¬AF÷Хоффенхайм¬JB÷pfAPTmU1¬WV÷hoffenheim¬GRB÷0¬AH÷1¬BB÷1¬BD÷0¬WM÷ГРТ¬AE÷Герта¬JA÷63BLUTEe¬WU÷hertha-berlin¬GRA÷0¬AG÷0¬BA÷0¬BC÷0¬AL÷{"2":[{"BU":"\/bookmaker\/16\/?from=live-streaming&sport=0","IU":"\/res\/image\/data\/bookmakers\/17-16.png","BN":"bet365","BI":16,"BT":"GEO restrictions apply. Funded account required or to have placed a bet in the last 24 hours. GamblingTherapy.org. 18+"},{"BU":"\/bookmaker\/486\/?from=live-streaming&sport=0","IU":"\/res\/image\/data\/bookmakers\/17-486.png","BN":"Olimp.bet","BI":486},{"BU":"\/bookmaker\/561\/?from=live-streaming&sport=0","IU":"\/res\/image\/data\/bookmakers\/17-561.png","BN":"Olimpbet.kz","BI":561},{"BU":"\/bookmaker\/454\/?from=live-streaming&sport=0","IU":"\/res\/image\/data\/bookmakers\/17-454.png","BN":"Winline","BI":454}]}¬AW÷1¬AN÷y¬MW÷454|453|471|417|16¬
+
+~AA÷GvVmHz5h¬AD÷1611084600¬ADE÷1611084600¬AB÷2¬CR÷2¬AC÷13¬CX÷Майнц¬RW÷0¬AI÷y¬AX÷1¬AO÷1611088413¬BX÷¬WQ÷¬WN÷ВЛФ¬AF÷Вольфсбург¬JB÷bH0JkVjL¬WV÷wolfsburg¬GRB÷0¬AH÷1¬BB÷0¬BD÷1¬WM÷МАЙ¬AE÷Майнц¬JA÷pEdFjByF¬WU÷mainz¬GRA÷0¬AG÷0¬BA÷0¬BC÷0¬AL÷{"2":[{"BU":"\/bookmaker\/16\/?from=live-streaming&sport=0","IU":"\/res\/image\/data\/bookmakers\/17-16.png","BN":"bet365","BI":16,"BT":"GEO restrictions apply. Funded account required or to have placed a bet in the last 24 hours. GamblingTherapy.org. 18+"},{"BU":"\/bookmaker\/486\/?from=live-streaming&sport=0","IU":"\/res\/image\/data\/bookmakers\/17-486.png","BN":"Olimp.bet","BI":486},{"BU":"\/bookmaker\/561\/?from=live-streaming&sport=0","IU":"\/res\/image\/data\/bookmakers\/17-561.png","BN":"Olimpbet.kz","BI":561},{"BU":"\/bookmaker\/454\/?from=live-streaming&sport=0","IU":"\/res\/image\/data\/bookmakers\/17-454.png","BN":"Winline","BI":454}]}¬AW÷1¬AN÷y¬MW÷454|453|471|417|16¬
+
+~ZA÷ГЕРМАНИЯ: Третья лига¬ZEE÷fNLB0bs2¬ZB÷81¬ZY÷Германия¬ZC÷jo7e1xr8¬ZD÷p¬ZE÷SIAGwuqI¬ZF÷0¬ZO÷0¬ZG÷1¬ZH÷81_fNLB0bs2¬ZJ÷2¬ZL÷/football/germany/3-liga/¬ZX÷00Германия    008рмания0020000000001000Третья лига 011я лига000¬ZCC÷0¬ZAF÷Германия¬
+
+~AA÷SAjqRMmp¬AD÷1611079200¬ADE÷1611079200¬AB÷3¬CR÷3¬AC÷3¬CX÷Верль¬RW÷0¬AX÷1¬AO÷1611085793¬BX÷-1¬WQ÷¬WM÷VER¬AE÷Верль¬JA÷zkjICgi0¬WU÷verl¬AS÷0¬AZ÷0¬GRA÷0¬AG÷1¬BA÷1¬BC÷0¬WN÷ZWI¬AF÷Цвикау¬JB÷EukMBD66¬WV÷zwickau¬AS÷0¬AZ÷0¬GRB÷0¬AH÷1¬BB÷0¬BD÷1¬AW÷1¬
+
+~AA÷vNk4zvkj¬AD÷1611079200¬ADE÷1611079200¬AB÷3¬CR÷3¬AC÷3¬CX÷Тюркгючу Мюнхен¬RW÷0¬AX÷1¬AO÷1611085864¬BX÷-1¬WQ÷¬WM÷ТЮР¬AE÷Тюркгючу Мюнхен¬JA÷Uu5GBMPk¬WU÷turkgucu-munchen¬AS÷0¬AZ÷0¬GRA÷0¬AG÷0¬BA÷0¬BC÷0¬WN÷УНТ¬AF÷Унтерхакинг¬JB÷O24KAtud¬WV÷unterhaching¬AS÷0¬AZ÷0¬GRB÷0¬AH÷0¬BB÷0¬BD÷0¬AW÷1¬
+
+~ZA÷ГЕРМАНИЯ: Юго-западная региональная лига¬ZEE÷G6hmqKkJ¬ZB÷81¬ZY÷Германия¬ZC÷zssFNSKq¬ZD÷p¬ZE÷YD4VFT6a¬ZF÷0¬ZO÷0¬ZG÷1¬ZH÷81_G6hmqKkJ¬ZJ÷2¬ZL÷/football/germany/regionalliga-sudwest/¬ZX÷00Германия    008рмания0060000000001000Юго-западная030я лига000¬ZCC÷0¬ZAF÷Германия¬
+
+~AA÷jmExFCr6¬AD÷1611079200¬ADE÷1611079200¬AB÷3¬CR÷3¬AC÷3¬CX÷Аален¬RW÷0¬AX÷0¬AO÷1611085946¬BX÷-1¬WQ÷¬WM÷AAL¬AE÷Аален¬JA÷dnq4iEdG¬WU÷aalen¬AS÷0¬AZ÷0¬AJ÷1¬GRA÷0¬AG÷1¬BA÷0¬BC÷1¬WN÷PIR¬AF÷Пирмазенс¬JB÷YB6XZoRr¬WV÷pirmasens¬AS÷0¬AZ÷0¬GRB÷0¬AH÷1¬BB÷1¬BD÷0¬
+
+~AA÷reWqDjDI¬AD÷1611079200¬ADE÷1611079200¬AB÷3¬CR÷3¬AC÷3¬CX÷Альценау¬RW÷0¬AX÷0¬AO÷1611085653¬BX÷-1¬WQ÷¬WM÷ALZ¬AE÷Альценау¬JA÷Ek4qXqB1¬WU÷alzenau¬GRA÷0¬AG÷1¬BA÷1¬BC÷0¬WN÷ШТУ¬AF÷Штутгарт II¬JB÷Sh8mW3Q7¬WV÷stuttgart¬AS÷2¬AZ÷2¬GRB÷0¬AH÷4¬BB÷3¬BD÷1¬
+
+~AA÷8OOXFhTa¬AD÷1611079200¬ADE÷1611079200¬AB÷3¬CR÷3¬AC÷3¬CX÷Майнц II¬RW÷0¬AX÷0¬AO÷1611085783¬BX÷-1¬WQ÷¬WM÷MAI¬AE÷Майнц II¬JA÷lMudgzS3¬WU÷mainz¬GRA÷0¬AG÷0¬BA÷0¬BC÷0¬WN÷WAL¬AF÷Вальдорф¬JB÷2Pq0hfsA¬WV÷walldorf¬AS÷2¬AZ÷2¬GRB÷0¬AH÷2¬BB÷2¬BD÷0¬
+
+~AA÷fZa2VXSn¬AD÷1611079200¬ADE÷1611079200¬AB÷3¬CR÷3¬AC÷3¬CX÷Хоффенхайм II¬RW÷0¬AX÷0¬AO÷1611085925¬BX÷-1¬WQ÷¬WM÷HOF¬AE÷Хоффенхайм II¬JA÷x03GoqQf¬WU÷hoffenheim¬AS÷0¬AZ÷0¬GRA÷0¬AG÷0¬BA÷0¬BC÷0¬WN÷HOM¬AF÷Хомбург¬JB÷Gj2Kp3u1¬WV÷fc-08-homburg¬AS÷0¬AZ÷0¬GRB÷0¬AH÷0¬BB÷0¬BD÷0¬
+
+~ZA÷ЕГИПЕТ: Премьер-лига¬ZEE÷xbpjAGxq¬ZB÷69¬ZY÷Египет¬ZC÷tbnZcUaK¬ZD÷p¬ZE÷Ew5LOZG3¬ZF÷0¬ZO÷0¬ZG÷1¬ZH÷69_xbpjAGxq¬ZJ÷2¬ZL÷/football/egypt/premier-league/¬ZX÷00Египет      006Египет0000000000001000Премьер-лига012р-лига000¬ZCC÷0¬ZAF÷Египет¬
+
+~AA÷lIWDJV76¬AD÷1611068400¬ADE÷1611068400¬AB÷3¬CR÷3¬AC÷3¬CX÷Замалек¬RW÷0¬AX÷1¬AO÷1611075240¬BX÷-1¬WQ÷¬WM÷ZAM¬AE÷Замалек¬JA÷viWnUCi8¬WU÷zamalek¬AS÷1¬AZ÷1¬GRA÷0¬AG÷1¬BA÷1¬BC÷0¬WN÷EL¬AF÷Эль-Гуна¬JB÷IsVjTW6E¬WV÷el-gounah¬GRB÷0¬AH÷0¬BB÷0¬BD÷0¬AW÷1¬
+
+~ZA÷ИНДИЯ: Суперлига¬ZEE÷rmioSrer¬ZB÷93¬ZY÷Индия¬ZC÷6DDbG8Mt¬ZD÷p¬ZE÷jijHqtXK¬ZF÷0¬ZO÷0¬ZG÷1¬ZH÷93_rmioSrer¬ZJ÷2¬ZL÷/football/india/isl/¬ZX÷00Индия       005......0000000000001000Суперлига   009ерлига000¬ZCC÷0¬ZAF÷Индия¬
+
+~AA÷802Pqqjn¬AD÷1611064800¬ADE÷1611064800¬AB÷3¬CR÷3¬AC÷3¬CX÷Хайдарабад¬RW÷0¬AX÷1¬AO÷1611071581¬BX÷-1¬WQ÷¬WM÷HYD¬AE÷Хайдарабад¬JA÷vBIEE3wC¬WU÷hyderabad¬AS÷0¬AZ÷0¬GRA÷0¬AG÷1¬BA÷1¬BC÷0¬WN÷ОДИ¬AF÷Одиша¬JB÷8pNIDNhI¬WV÷odisha¬AS÷0¬AZ÷0¬GRB÷0¬AH÷1¬BB÷0¬BD÷1¬AW÷1¬
+
+~ZA÷ИНДИЯ: Первый дивизион¬ZEE÷OQyqbHWB¬ZB÷93¬ZY÷Индия¬ZC÷GhjxEQL5¬ZD÷p¬ZE÷C6l2uKfr¬ZF÷0¬ZO÷0¬ZG÷1¬ZH÷93_OQyqbHWB¬ZJ÷2¬ZL÷/football/india/i-league/¬ZX÷00Индия       005......0010000000001000Первый дивиз015визион000¬ZCC÷0¬ZAF÷Индия¬
+
+~AA÷lxyKXCII¬AD÷1611045000¬ADE÷1611045000¬AB÷3¬CR÷3¬AC÷3¬CX÷Пенджаб¬RW÷0¬AX÷1¬AO÷1611051818¬BX÷-1¬WQ÷¬WM÷ПЕН¬AE÷Пенджаб¬JA÷tIeIayjl¬WU÷punjab¬GRA÷0¬AG÷0¬BA÷0¬BC÷0¬WN÷CHU¬AF÷Черчилль Бразерс¬JB÷Ai0Mbe5f¬WV÷churchill-brothers¬AS÷2¬AZ÷2¬GRB÷0¬AH÷1¬BB÷0¬BD÷1¬AW÷1¬
+
+~AA÷0E3mGpmo¬AD÷1611052200¬ADE÷1611052200¬AB÷3¬CR÷3¬AC÷3¬CX÷ТРАУ¬RW÷0¬AX÷1¬AO÷1611059624¬BX÷-1¬WQ÷¬WM÷ТРА¬AE÷ТРАУ¬JA÷lraQcFK0¬WU÷trau-fc¬AS÷0¬AZ÷0¬GRA÷0¬AG÷2¬BA÷2¬BC÷0¬WN÷MOH¬AF÷Мохаммедан Калькутта¬JB÷r5bUdZZ6¬WV÷mohammedan¬AS÷0¬AZ÷0¬GRB÷0¬AH÷2¬BB÷0¬BD÷2¬AW÷1¬
+
+~AA÷2JsWvUPo¬AD÷1611063000¬ADE÷1611063000¬AB÷3¬CR÷3¬AC÷3¬CX÷Реал Кашмир¬RW÷0¬AX÷1¬AO÷1611069793¬BX÷-1¬WQ÷¬WM÷РЕА¬AE÷Реал Кашмир¬JA÷tjHXegkD¬WU÷real-kashmir¬AS÷0¬AZ÷0¬GRA÷0¬AG÷1¬BA÷0¬BC÷1¬WN÷SUD¬AF÷Sudeva Delhi¬JB÷fg5FKxSD¬WV÷sudeva-delhi¬AS÷0¬AZ÷0¬GRB÷0¬AH÷1¬BB÷0¬BD÷1¬AW÷1¬
+
+~ZA÷ИСЛАНДИЯ: Кубок Рейкьявика¬ZEE÷lzeKyAaM¬ZB÷92¬ZY÷Исландия¬ZC÷GOnNlujK¬ZD÷c¬ZE÷S8qoaoqH¬ZF÷0¬ZO÷1¬ZG÷1¬ZH÷92_lzeKyAaM¬ZJ÷2¬ZL÷/football/iceland/reykjavik-cup/¬ZX÷00Исландия    008ландия0050000000001000Кубок Рейкья016ьявика000¬ZCC÷0¬ZAF÷Исландия¬
+
+~AA÷xhfwv5Q8¬AD÷1611082800¬ADE÷1611082800¬AB÷3¬CR÷3¬AC÷3¬CX÷КР Рейкьявик¬RW÷0¬AX÷0¬AO÷1611089068¬BX÷-1¬WQ÷¬WM÷КРР¬AE÷КР Рейкьявик¬JA÷OjbW4TQt¬WU÷kr-reykjavik¬AS÷1¬AZ÷1¬GRA÷0¬AG÷3¬BA÷1¬BC÷2¬WN÷ФЬО¬AF÷Фьолнир¬JB÷2scz4mtm¬WV÷fjolnir¬GRB÷0¬AH÷2¬BB÷2¬BD÷0¬
+
+~AA÷bmG0Qod9¬AD÷1611082800¬ADE÷1611082800¬AB÷3¬CR÷3¬AC÷3¬CX÷Троттюр¬RW÷0¬AX÷0¬AO÷1611089392¬BX÷-1¬WQ÷¬WM÷ТРО¬AE÷Троттюр¬JA÷filLgr1r¬WU÷throttur¬GRA÷0¬AG÷1¬BA÷1¬BC÷0¬WN÷VIK¬AF÷Викингур Рейкьявик¬JB÷YsmPh2Gl¬WV÷vikingur-reykjavik¬AS÷2¬AZ÷2¬GRB÷0¬AH÷6¬BB÷3¬BD÷3¬
+
+~AA÷OljZvoB2¬AD÷1611082800¬ADE÷1611082800¬AB÷3¬CR÷3¬AC÷3¬CX÷Филкир¬RW÷0¬AX÷0¬AO÷1611089637¬BX÷-1¬WQ÷¬WM÷ФИЛ¬AE÷Филкир¬JA÷h870Ak3J¬WU÷fylkir¬AS÷1¬AZ÷1¬GRA÷0¬AG÷3¬BA÷2¬BC÷1¬WN÷ФРА¬AF÷Фрам¬JB÷6BB499IP¬WV÷fram¬GRB÷0¬AH÷2¬BB÷1¬BD÷1¬
+
+~AA÷xvF4P5BF¬AD÷1611086400¬ADE÷1611086400¬AB÷2¬CR÷2¬AC÷38¬CX÷ИР Рейкьявик¬RW÷0¬AI÷y¬AX÷0¬AO÷1611089339¬BX÷-1¬WQ÷¬WN÷LEI¬AF÷Лейкнир¬JB÷KboXjto1¬WV÷leiknir-reykjavik¬GRB÷0¬AH÷1¬BB÷1¬WM÷REY¬AE÷ИР Рейкьявик¬JA÷t8nTiMVf¬WU÷ir-reykjavik¬GRA÷0¬AG÷0¬BA÷0¬AN÷y¬MW÷454|453|471|417¬
+
+~ZA÷ИСПАНИЯ: Примера¬ZEE÷QVmLl54o¬ZB÷176¬ZY÷Испания¬ZC÷I58n6IRP¬ZD÷t¬ZE÷trCLzEsJ¬ZF÷0¬ZO÷1¬ZG÷1¬ZH÷176_QVmLl54o¬ZJ÷2¬ZL÷/football/spain/laliga/¬ZX÷00Испания     007спания0000000000001000Примера     007римера000¬ZCC÷0¬ZAF÷Испания¬
+
+~AA÷8nqzrPa7¬AD÷1611079200¬ADE÷1611079200¬AB÷3¬CR÷3¬AC÷3¬CX÷Вальядолид¬RW÷0¬AX÷1¬AO÷1611086052¬BX÷-1¬WQ÷¬WM÷VLL¬AE÷Вальядолид¬JA÷EVeKBSAP¬WU÷valladolid¬AS÷0¬AZ÷0¬GRA÷0¬AG÷2¬BA÷0¬BC÷2¬WN÷ЭЛЬ¬AF÷Эльче¬JB÷Gvrn7nJt¬WV÷elche¬AS÷0¬AZ÷0¬GRB÷0¬AH÷2¬BB÷2¬BD÷0¬AW÷1¬
+
+~AA÷IcjNpRFl¬AD÷1611079200¬ADE÷1611079200¬AB÷3¬CR÷3¬AC÷3¬CX÷Кадис¬RW÷0¬AX÷1¬AO÷1611085968¬BX÷-1¬WQ÷¬WM÷КАД¬AE÷Кадис¬JA÷Sf7Ii7Jg¬WU÷cadiz¬AS÷0¬AZ÷0¬GRA÷0¬AG÷2¬BA÷2¬BC÷0¬WN÷LEV¬AF÷Леванте¬JB÷6o6MjRYa¬WV÷levante¬AS÷0¬AZ÷0¬GRB÷0¬AH÷2¬BB÷2¬BD÷0¬AW÷1¬
+
+~AA÷v9Wx6ync¬AD÷1611088200¬ADE÷1611088200¬AB÷2¬CR÷2¬AC÷12¬CX÷Алавес¬RW÷0¬AI÷y¬AX÷1¬AO÷1611088206¬BX÷¬WQ÷¬WN÷СЕВ¬AF÷Севилья¬JB÷MHnuizTr¬WV÷sevilla¬GRB÷0¬AH÷1¬BB÷1¬WM÷АЛА¬AE÷Алавес¬JA÷pdeDeGKR¬WU÷alaves¬GRA÷0¬AG÷1¬BA÷1¬AL÷{"1":[{"TVI":717,"BU":"http:\/\/matchtv.ru\/","BN":"\u041c\u0430\u0442\u0447 \u0424\u0443\u0442\u0431\u043e\u043b"}],"2":[{"BU":"\/bookmaker\/16\/?from=live-streaming&sport=0","IU":"\/res\/image\/data\/bookmakers\/17-16.png","BN":"bet365","BI":16,"BT":"GEO restrictions apply. Funded account required or to have placed a bet in the last 24 hours. GamblingTherapy.org. 18+"},{"BU":"\/bookmaker\/486\/?from=live-streaming&sport=0","IU":"\/res\/image\/data\/bookmakers\/17-486.png","BN":"Olimp.bet","BI":486},{"BU":"\/bookmaker\/561\/?from=live-streaming&sport=0","IU":"\/res\/image\/data\/bookmakers\/17-561.png","BN":"Olimpbet.kz","BI":561},{"BU":"\/bookmaker\/454\/?from=live-streaming&sport=0","IU":"\/res\/image\/data\/bookmakers\/17-454.png","BN":"Winline","BI":454}]}¬AW÷1¬AN÷y¬MW÷454|453|471|417|16¬
+
+~ZA÷ИСПАНИЯ: Сегунда¬ZEE÷vZiPmPJi¬ZB÷176¬ZY÷Испания¬ZC÷OnoF1xzs¬ZD÷p¬ZE÷b3OBacKJ¬ZF÷0¬ZO÷0¬ZG÷1¬ZH÷176_vZiPmPJi¬ZJ÷2¬ZL÷/football/spain/laliga2/¬ZX÷00Испания     007спания0010000000001000Сегунда     007егунда000¬ZCC÷0¬ZAF÷Испания¬
+
+~AA÷QTCJUY3N¬AD÷1611079200¬ADE÷1611079200¬AB÷3¬CR÷3¬AC÷3¬CX÷Мирандес¬RW÷0¬AX÷1¬AO÷1611085944¬BX÷-1¬WQ÷¬WM÷MIR¬AE÷Мирандес¬JA÷bRDIxCQr¬WU÷mirandes¬GRA÷0¬AG÷0¬BA÷0¬BC÷0¬WN÷РАЙ¬AF÷Райо Вальекано¬JB÷6iDMyWuk¬WV÷rayo-vallecano¬AS÷2¬AZ÷2¬GRB÷0¬AH÷2¬BB÷2¬BD÷0¬AW÷1¬
+
+~ZA÷ИТАЛИЯ: Серия В¬ZEE÷6oug4RRc¬ZB÷98¬ZY÷Италия¬ZC÷nsAcBbLn¬ZD÷p¬ZE÷WUuZys5B¬ZF÷0¬ZO÷0¬ZG÷1¬ZH÷98_6oug4RRc¬ZJ÷2¬ZL÷/football/italy/serie-b/¬ZX÷00Италия      006Италия0010000000001000Серия В     007ерия В000¬ZCC÷0¬ZAF÷Италия¬
+
+~AA÷YXIdBAam¬AD÷1611000000¬ADE÷1611000000¬AB÷3¬CR÷3¬AC÷3¬CX÷СПАЛ¬RW÷0¬AX÷1¬AO÷1611006680¬BX÷-1¬WQ÷¬WM÷SPA¬AE÷СПАЛ¬JA÷zmJWbhXq¬WU÷societa-polisportiva-ars-et-labor¬AS÷1¬AZ÷1¬GRA÷0¬AG÷2¬BA÷1¬BC÷1¬WN÷РЕД¬AF÷Реджана¬JB÷U9IzbCnj¬WV÷reggiana¬GRB÷0¬AH÷0¬BB÷0¬BD÷0¬AW÷1¬
+
+~AA÷dGkyzZKj¬AD÷1611079200¬ADE÷1611079200¬AB÷3¬CR÷3¬AC÷3¬CX÷Виченца Виртус¬RW÷0¬AX÷1¬AO÷1611085855¬BX÷-1¬WQ÷¬WM÷ВИЧ¬AE÷Виченца Виртус¬JA÷d6B1SjMO¬WU÷vicenza-virtus¬AS÷0¬AZ÷0¬GRA÷0¬AG÷1¬BA÷1¬BC÷0¬WN÷CHI¬AF÷Кьево¬JB÷A9aqizaP¬WV÷chievo¬AS÷0¬AZ÷0¬GRB÷0¬AH÷1¬BB÷0¬BD÷1¬AW÷1¬
+
+~ZA÷ИТАЛИЯ: Кубок Италии¬ZEE÷bLyo6mco¬ZB÷98¬ZY÷Италия¬ZC÷IgSYuF8N¬ZD÷p¬ZE÷ddDRsyz5¬ZF÷0¬ZO÷0¬ZG÷2¬ZH÷98_bLyo6mco¬ZJ÷2¬ZL÷/football/italy/coppa-italia/¬ZX÷00Италия      006Италия0190000000001000Кубок Италии012Италии000¬ZCC÷0¬ZAF÷Италия¬
+
+~AA÷rRrj6r7c¬AD÷1611087300¬ADE÷1611087300¬AB÷2¬CR÷2¬AC÷12¬CX÷Рома¬RW÷0¬AI÷y¬AX÷1¬AO÷1611087454¬BX÷¬WQ÷¬WN÷СПЕ¬AF÷Специя¬JB÷OdmA11wB¬WV÷spezia¬GRB÷0¬AH÷2¬BB÷2¬WM÷ROM¬AE÷Рома¬JA÷p6l62sO4¬WU÷as-roma¬GRA÷0¬AG÷0¬BA÷0¬AL÷{"2":[{"BU":"\/bookmaker\/454\/?from=live-streaming&sport=0","IU":"\/res\/image\/data\/bookmakers\/17-454.png","BN":"Winline","BI":454}]}¬AW÷1¬AN÷y¬MW÷454|453|471|417|16¬
+
+~ZA÷ИТАЛИЯ: Кубок Италии Примаверо¬ZEE÷j1pBfg5a¬ZB÷98¬ZY÷Италия¬ZC÷hYT8eMz1¬ZD÷c¬ZE÷MXNHaoAL¬ZF÷0¬ZO÷0¬ZG÷2¬ZH÷98_j1pBfg5a¬ZJ÷2¬ZL÷/football/italy/coppa-italia-primavera/¬ZX÷00Италия      006Италия0400000000001000Кубок Италии022маверо000¬ZCC÷0¬ZAF÷Италия¬
+
+~AA÷A52Rlvnh¬AD÷1611050400¬ADE÷1611050400¬AB÷3¬CR÷3¬AC÷3¬CX÷Фрозиноне U19¬RW÷0¬AX÷0¬AO÷1611061842¬BX÷-1¬WQ÷¬WM÷FRO¬AE÷Фрозиноне U19¬JA÷6Td05lVo¬WU÷frosinone¬GRA÷0¬AG÷0¬BA÷0¬BC÷0¬WN÷SPA¬AF÷СПАЛ U19¬JB÷pKe448ph¬WV÷spal¬AS÷2¬AZ÷2¬BZ÷1¬AK÷1¬GRB÷0¬AH÷5¬BB÷1¬BD÷4¬
+
+~ZA÷КАТАР: Лига Катар Старс¬ZEE÷8nCtm7SE¬ZB÷156¬ZY÷Катар¬ZC÷GWbRYyQp¬ZD÷p¬ZE÷2eJz4Euj¬ZF÷0¬ZO÷0¬ZG÷1¬ZH÷156_8nCtm7SE¬ZJ÷2¬ZL÷/football/qatar/qsl/¬ZX÷00Катар       005......0000000000001000Лига Катар С016 Старс000¬ZCC÷0¬ZAF÷Катар¬
+
+~AA÷Yw8FtPpp¬AD÷1611063000¬ADE÷1611063000¬AB÷3¬CR÷3¬AC÷3¬CX÷Аль-Вакра¬RW÷0¬AX÷1¬AO÷1611070101¬BX÷-1¬WQ÷¬WM÷WAK¬AE÷Аль-Вакра¬JA÷KQquil74¬WU÷al-wakra¬GRA÷0¬AG÷0¬BA÷0¬BC÷0¬WN÷RAY¬AF÷Аль-Раян¬JB÷l0lqj8MA¬WV÷al-rayyan¬AS÷2¬AZ÷2¬GRB÷0¬AH÷3¬BB÷1¬BD÷2¬AW÷1¬
+
+~AA÷2DCJuq0j¬AD÷1611072000¬ADE÷1611072000¬AB÷3¬CR÷3¬AC÷3¬CX÷Катар СК¬RW÷0¬AX÷1¬AO÷1611079089¬BX÷-1¬WQ÷¬WM÷QAT¬AE÷Катар СК¬JA÷SjmmkSyH¬WU÷qatar-sc¬AS÷0¬AZ÷0¬GRA÷0¬AG÷1¬BA÷1¬BC÷0¬WN÷АЛЬ¬AF÷Аль-Духаиль¬JB÷MDnilniN¬WV÷al-duhail¬AS÷0¬AZ÷0¬GRB÷0¬AH÷1¬BB÷0¬BD÷1¬AW÷1¬
+
+~AA÷t4BNv3Fd¬AD÷1611072000¬ADE÷1611072000¬AB÷3¬CR÷3¬AC÷3¬CX÷Умм-Салаль¬RW÷0¬AX÷1¬AO÷1611078711¬BX÷-1¬WQ÷¬WM÷UMM¬AE÷Умм-Салаль¬JA÷Ymjem66T¬WU÷umm-salal¬AS÷0¬AZ÷0¬GRA÷0¬AG÷0¬BA÷0¬BC÷0¬WN÷ARA¬AF÷Аль-Араби¬JB÷jTxNrQEp¬WV÷al-arabi¬AS÷0¬AZ÷0¬AK÷1¬GRB÷0¬AH÷0¬BB÷0¬BD÷0¬AW÷1¬
+
+~ZA÷КОЛУМБИЯ: Примера А - Апертура¬ZEE÷t0fpnjs5¬ZB÷53¬ZY÷Колумбия¬ZC÷nN55IIYm¬ZD÷p¬ZE÷dO7eEmpJ¬ZF÷0¬ZO÷0¬ZG÷1¬ZH÷53_t0fpnjs5¬ZJ÷23¬ZL÷/football/colombia/primera-a/¬ZX÷00Колумбия    008лумбия0000000000001000Примера А - 020ертура000¬ZCC÷0¬ZAF÷Колумбия¬
+
+~AA÷4j0OQcur¬AD÷1611001800¬ADE÷1611001800¬AB÷3¬CR÷3¬AC÷3¬CX÷Толима¬RW÷0¬AX÷1¬AO÷1611008818¬BX÷-1¬WQ÷¬WM÷DEP¬AE÷Толима¬JA÷nqEDhFc7¬WU÷deportes-tolima¬AS÷0¬AZ÷0¬GRA÷0¬AG÷1¬BA÷0¬BC÷1¬WN÷ONC¬AF÷Онсе Кальдас¬JB÷QZCHiZCD¬WV÷once-caldas¬AS÷0¬AZ÷0¬GRB÷0¬AH÷1¬BB÷0¬BD÷1¬AW÷1¬
+
+~ZA÷КОСТА-РИКА: Ассенсо - Клаусура¬ZEE÷riEiBZjN¬ZB÷57¬ZY÷Коста-Рика¬ZC÷jDX28pzf¬ZD÷c¬ZE÷AqF2eqhp¬ZF÷0¬ZO÷0¬ZG÷1¬ZH÷57_riEiBZjN¬ZJ÷24¬ZL÷/football/costa-rica/liga-de-ascenso/¬ZX÷00Коста-Рика  010а-Рика0010000000001000Ассенсо - Кл018аусура000¬ZCC÷0¬ZAF÷Коста-Рика¬
+
+~AA÷6qjpuR3q¬AD÷1611014400¬ADE÷1611014400¬AB÷3¬CR÷3¬AC÷3¬CX÷Карьяри Покоси¬RW÷0¬AX÷0¬AO÷1611021268¬BX÷-1¬WQ÷¬WM÷CAR¬AE÷Карьяри Покоси¬JA÷IuYD52xl¬WU÷cariari-pococi¬GRA÷0¬AG÷1¬BA÷1¬BC÷0¬WN÷MSR¬AF÷Мунисипаль Сан Рамон¬JB÷dWWH4Mif¬WV÷municipal-san-ramon¬AS÷2¬AZ÷2¬GRB÷0¬AH÷2¬BB÷1¬BD÷1¬
+
+~ZA÷МЕКСИКА: Лига MX - Клаусура¬ZEE÷bm2Vlsfl¬ZB÷128¬ZY÷Мексика¬ZC÷SE6xXxyU¬ZD÷p¬ZE÷2Rcf4Wjg¬ZF÷0¬ZO÷0¬ZG÷1¬ZH÷128_bm2Vlsfl¬ZJ÷24¬ZL÷/football/mexico/liga-mx/¬ZX÷00Мексика     007ексика0000000000001000Лига MX - Кл018аусура000¬ZCC÷0¬ZAF÷Мексика¬
+
+~AA÷hziSHaTl¬AD÷1611025200¬ADE÷1611025200¬AB÷3¬CR÷3¬AC÷3¬CX÷Леон¬RW÷0¬AX÷1¬AO÷1611032014¬BX÷-1¬WQ÷¬WM÷LEO¬AE÷Леон¬JA÷rsU0bMja¬WU÷club-leon¬AS÷0¬AZ÷0¬GRA÷0¬AG÷0¬BA÷0¬BC÷0¬WN÷PAC¬AF÷Пачука¬JB÷dpY4ct65¬WV÷pachuca¬AS÷0¬AZ÷0¬GRB÷0¬AH÷0¬BB÷0¬BD÷0¬AW÷1¬
+
+~ZA÷МЕКСИКА: Лига MX - Женщины - Клаусура¬ZEE÷S8Dr0wAf¬ZB÷128¬ZY÷Мексика¬ZC÷S6EUZBLR¬ZD÷c¬ZE÷2qmSrPuP¬ZF÷0¬ZO÷0¬ZG÷1¬ZH÷128_S8Dr0wAf¬ZJ÷24¬ZL÷/football/mexico/liga-mx-women/¬ZX÷00Мексика     007ексика0100000000001000Лига MX - Же028аусура000¬ZCC÷0¬ZAF÷Мексика¬
+
+~AA÷GQB5FeqN¬AD÷1611006300¬ADE÷1611006300¬AB÷3¬CR÷3¬AC÷3¬CX÷Америка (Ж)¬RW÷0¬AX÷0¬AO÷1611013073¬BX÷-1¬WQ÷¬WM÷CLU¬AE÷Америка (Ж)¬JA÷KpQhut7d¬WU÷club-america¬AS÷1¬AZ÷1¬GRA÷0¬AG÷2¬BA÷1¬BC÷1¬WN÷JUA¬AF÷Хуарес (Ж)¬JB÷niEz4Pqc¬WV÷juarez¬GRB÷0¬AH÷1¬BB÷1¬BD÷0¬
+
+~AA÷UTF9EFbT¬AD÷1611010800¬ADE÷1611010800¬AB÷3¬CR÷3¬AC÷3¬CX÷Пачука (Ж)¬RW÷0¬AX÷0¬AO÷1611017619¬BX÷-1¬WQ÷¬WM÷PAC¬AE÷Пачука (Ж)¬JA÷QsDv3qa3¬WU÷pachuca¬GRA÷0¬AG÷1¬BA÷0¬BC÷1¬WN÷SAN¬AF÷Сантос Лагуна (Ж)¬JB÷K4Cr23E9¬WV÷santos-laguna¬AS÷2¬AZ÷2¬GRB÷0¬AH÷2¬BB÷1¬BD÷1¬
+
+~AA÷n92yAZ6p¬AD÷1611018000¬ADE÷1611018000¬AB÷3¬CR÷3¬AC÷3¬CX÷Монтеррей (Ж)¬RW÷0¬AX÷0¬AO÷1611024561¬BX÷-1¬WQ÷¬WM÷MON¬AE÷Монтеррей (Ж)¬JA÷Y7Gn1NTF¬WU÷monterrey¬AS÷1¬AZ÷1¬GRA÷0¬AG÷5¬BA÷3¬BC÷2¬WN÷NEC¬AF÷Некакса (Ж)¬JB÷SUFj0sqM¬WV÷necaxa¬GRB÷0¬AH÷0¬BB÷0¬BD÷0¬
+
+~AA÷Qa1u9gMj¬AD÷1611025200¬ADE÷1611025200¬AB÷3¬CR÷3¬AC÷3¬CX÷Клуб Тихуана (Ж)¬RW÷0¬AX÷0¬AO÷1611032120¬BX÷-1¬WQ÷¬WM÷TIJ¬AE÷Клуб Тихуана (Ж)¬JA÷6LEfa1bS¬WU÷club-tijuana¬GRA÷0¬AG÷0¬BA÷0¬BC÷0¬WN÷TOL¬AF÷Толука (Ж)¬JB÷bD6MfL6q¬WV÷toluca¬AS÷2¬AZ÷2¬GRB÷0¬AH÷1¬BB÷1¬BD÷0¬
+
+~ZA÷МИР: Международные товарищеские матчи¬ZEE÷f1GbGBCd¬ZB÷8¬ZY÷Мир¬ZC÷2eYcJT8o¬ZD÷p¬ZE÷0¬ZF÷0¬ZH÷8_f1GbGBCd¬ZJ÷2¬ZL÷/football/world/friendly-international/¬ZX÷00Мир         003......0060000000001000Международны032 матчи000¬ZCC÷0¬ZAF÷Мир¬
+
+~AA÷6mQXsuh6¬AD÷1611075600¬ADE÷1611075600¬AB÷3¬CR÷3¬AC÷5¬CX÷Мартиника¬RW÷0¬AX÷0¬BX÷-1¬WQ÷¬WM÷MAR¬AE÷Мартиника¬JA÷KAJy9jSc¬WU÷martinique¬GRA÷0¬WN÷PAN¬AF÷Панама¬JB÷b1Iu8As4¬WV÷panama¬GRB÷0¬
+
+~AA÷xC65VVOt¬AD÷1611090000¬ADE÷1611090000¬AB÷1¬CR÷1¬AC÷1¬CX÷Доминиканская Республика¬RW÷0¬AX÷1¬BX÷-1¬WQ÷¬WN÷PUE¬AF÷Пуэрто-Рико¬JB÷YVCZ5qP1¬WV÷puerto-rico¬GRB÷0¬WM÷DOM¬AE÷Доминиканская Республика¬JA÷v9DV6P9e¬WU÷dominican-republic¬GRA÷0¬AN÷y¬MW÷453|471|417¬
+
+~ZA÷МИР: Клубные товарищеские матчи¬ZEE÷Ox0MZaDH¬ZB÷8¬ZY÷Мир¬ZC÷OMjdGl3n¬ZD÷p¬ZE÷0¬ZF÷0¬ZH÷8_Ox0MZaDH¬ZJ÷2¬ZL÷/football/world/club-friendly/¬ZX÷00Мир         003......0070000000001000Клубные това026 матчи000¬ZCC÷0¬ZAF÷Мир¬
+
+~AA÷t2YrV1G0¬AD÷1611039600¬ADE÷1611039600¬AB÷3¬CR÷3¬AC÷3¬CX÷Бунедкор (Узб)¬RW÷0¬AX÷0¬AO÷1611046224¬BX÷-1¬WQ÷¬WM÷BUN¬AE÷Бунедкор (Узб)¬JA÷bJRJOx5C¬WU÷bunyodkor¬AS÷0¬AZ÷0¬GRA÷0¬AG÷2¬BA÷1¬BC÷1¬WN÷KOK¬AF÷Коканд 1912 (Узб)¬JB÷ShWNNdKI¬WV÷kokand-1912¬AS÷0¬AZ÷0¬GRB÷0¬AH÷2¬BB÷0¬BD÷2¬
+
+~AA÷KhXnULV6¬AD÷1611046800¬ADE÷1611046800¬AB÷3¬CR÷3¬AC÷3¬CX÷Рочдейл Роверс (Авс)¬RW÷0¬AX÷0¬AO÷1611053292¬BX÷-1¬WQ÷¬WM÷ROC¬AE÷Рочдейл Роверс (Авс)¬JA÷6qVRMGZO¬WU÷rochedale¬GRA÷0¬AG÷1¬BA÷0¬BC÷1¬WN÷Сур¬AF÷Surfers P. (Авс)¬JB÷KnJ9o0CP¬WV÷surfers-paradise-blue¬AS÷2¬AZ÷2¬GRB÷0¬AH÷4¬BB÷4¬BD÷0¬
+
+~AA÷bwqvWs1f¬AD÷1611050400¬ADE÷1611050400¬AB÷3¬CR÷3¬AC÷3¬CX÷Пирин (Бог)¬RW÷0¬AX÷0¬AO÷1611056631¬BX÷-1¬WQ÷¬WM÷PIR¬AE÷Пирин (Бог)¬JA÷Q5TBQbz0¬WU÷pirin-blagoevgrad¬AS÷1¬AZ÷1¬GRA÷0¬AG÷5¬BA÷2¬BC÷3¬WN÷MAR¬AF÷Марек (Бог)¬JB÷KSSFPIk6¬WV÷marek¬GRB÷0¬AH÷1¬BB÷1¬BD÷0¬
+
+~AA÷6aGPJgUK¬AD÷1611050400¬ADE÷1611050400¬AB÷3¬CR÷3¬AC÷3¬CX÷Сабуртало Тбилиси (Гру)¬RW÷0¬AX÷0¬AO÷1611056937¬BX÷-1¬WQ÷¬WM÷SAB¬AE÷Сабуртало Тбилиси (Гру)¬JA÷neYmUXgJ¬WU÷saburtalo-tbilisi¬AS÷1¬AZ÷1¬GRA÷0¬AG÷3¬BA÷1¬BC÷2¬WN÷ШЕВ¬AF÷Шевардени Тбилиси (Гру)¬JB÷0bMVhHWJ¬WV÷shevardeni-tbilisi¬GRB÷0¬AH÷0¬BB÷0¬BD÷0¬
+
+~AA÷WrFusNRo¬AD÷1611052200¬ADE÷1611052200¬AB÷3¬CR÷3¬AC÷3¬CX÷Теплице (Чех)¬RW÷0¬AX÷0¬BW÷2¬BX÷-1¬WQ÷¬WM÷TEP¬AE÷Теплице (Чех)¬JA÷E5KeFP0l¬WU÷teplice¬AS÷1¬AZ÷1¬GRA÷0¬AG÷2¬BA÷0¬BC÷2¬WN÷PLZ¬AF÷Плзень (Б) (Чех)¬JB÷8tZbEqGf¬WV÷plzen¬GRB÷0¬AH÷0¬BB÷0¬BD÷0¬
+
+~AA÷hx2ttH7g¬AD÷1611054000¬ADE÷1611054000¬AB÷3¬CR÷3¬AC÷3¬CX÷Сеница (Сла)¬RW÷0¬AX÷0¬AO÷1611060205¬BX÷-1¬WQ÷¬WM÷SEN¬AE÷Сеница (Сла)¬JA÷4riky2t5¬WU÷senica¬AS÷1¬AZ÷1¬GRA÷0¬AG÷2¬BA÷0¬BC÷2¬WN÷BLA¬AF÷Бланско (Чех)¬JB÷rZkgzMeB¬WV÷fk-blansko¬GRB÷0¬AH÷1¬BB÷1¬BD÷0¬
+
+~AA÷2mTTwlYK¬AD÷1611055200¬ADE÷1611055200¬AB÷3¬CR÷3¬AC÷3¬CX÷Гурник Забже (Пол)¬RW÷0¬AX÷1¬AO÷1611061838¬BX÷-1¬WQ÷¬WM÷GOR¬AE÷Гурник Забже (Пол)¬JA÷CAaOKFD7¬WU÷gornik-z¬AS÷1¬AZ÷1¬GRA÷0¬AG÷4¬BA÷1¬BC÷3¬WN÷TRE¬AF÷Тренчин (Сла)¬JB÷QDm6qaj8¬WV÷trencin¬GRB÷0¬AH÷1¬BB÷1¬BD÷0¬AM÷Нейтральное поле.¬
+
+~AA÷QTbkH4kI¬AD÷1611055800¬ADE÷1611055800¬AB÷3¬CR÷3¬AC÷3¬CX÷Лехия Гданьск (Пол)¬RW÷0¬AX÷0¬AO÷1611062210¬BX÷-1¬WQ÷¬WM÷GDA¬AE÷Лехия Гданьск (Пол)¬JA÷CWfoI715¬WU÷lechia-gdansk¬AS÷1¬AZ÷1¬GRA÷0¬AG÷9¬BA÷4¬BC÷5¬WN÷OLI¬AF÷Олимпия Грудзёндз (Пол)¬JB÷6gfkHRGB¬WV÷ol-grudziadz¬GRB÷0¬AH÷1¬BB÷0¬BD÷1¬
+
+~AA÷O4hG996D¬AD÷1611057600¬ADE÷1611057600¬AB÷3¬CR÷3¬AC÷3¬CX÷Вараждин (Хор)¬RW÷0¬AX÷0¬AO÷1611063768¬BX÷-1¬WQ÷¬WM÷VAR¬AE÷Вараждин (Хор)¬JA÷nFjrq1Kh¬WU÷varazdin¬AS÷1¬AZ÷1¬GRA÷0¬AG÷2¬BA÷0¬BC÷2¬WN÷ZAP¬AF÷Запрешич (Хор)¬JB÷GlenrLZb¬WV÷zapresic¬GRB÷0¬AH÷0¬BB÷0¬BD÷0¬
+
+~AA÷fHv1ILOI¬AD÷1611057600¬ADE÷1611057600¬AB÷3¬CR÷3¬AC÷3¬CX÷Орхус (Дан)¬RW÷0¬AX÷1¬AO÷1611063899¬BX÷-1¬WQ÷¬WN÷MID¬AF÷Мидтьюлланн (Дан)¬JB÷tSOQNlpQ¬WV÷midtjylland¬AS÷2¬AZ÷2¬GRB÷0¬AH÷2¬BB÷1¬BD÷1¬WM÷AAR¬AE÷Орхус (Дан)¬JA÷YJGhJ8hs¬WU÷aarhus¬GRA÷0¬AG÷0¬BA÷0¬BC÷0¬
+
+~AA÷SUnAOyC8¬AD÷1611057600¬ADE÷1611057600¬AB÷3¬CR÷3¬AC÷3¬CX÷Плоцк (Пол)¬RW÷0¬AX÷0¬AO÷1611065556¬BX÷-1¬WQ÷¬WM÷WIS¬AE÷Плоцк (Пол)¬JA÷46q8Su4b¬WU÷wisla-plock¬AS÷1¬AZ÷1¬GRA÷0¬AG÷2¬WN÷MOT¬AF÷Мотор (Пол)¬JB÷bTrCRaJ4¬WV÷lublin¬GRB÷0¬AH÷1¬AM÷Играют 105 минут.¬
+
+~AA÷jy0sqymN¬AD÷1611057600¬ADE÷1611057600¬AB÷3¬CR÷3¬AC÷3¬CX÷Ружомберок (Сла)¬RW÷0¬AX÷1¬AO÷1611063382¬BX÷-1¬WQ÷¬WM÷RUZ¬AE÷Ружомберок (Сла)¬JA÷4xxfYXND¬WU÷ruzomberok¬GRA÷0¬AG÷2¬BA÷2¬BC÷0¬WN÷БАН¬AF÷Баньска-Бистрица (Сла)¬JB÷GE4NG5ht¬WV÷banska-bystrica¬AS÷2¬AZ÷2¬GRB÷0¬AH÷4¬BB÷1¬BD÷3¬
+
+~AA÷pjFTIDqR¬AD÷1611057600¬ADE÷1611057600¬AB÷3¬CR÷3¬AC÷5¬CX÷Черно Море (Бог)¬RW÷0¬AX÷0¬BX÷-1¬WQ÷¬WM÷CHE¬AE÷Черно Море (Бог)¬JA÷vkLZiynQ¬WU÷cherno-more¬GRA÷0¬WN÷SOZ¬AF÷Созополь (Бог)¬JB÷drN0mefs¬WV÷sozopol¬GRB÷0¬
+
+~AA÷bsccFrKU¬AD÷1611061200¬ADE÷1611061200¬AB÷3¬CR÷3¬AC÷5¬CX÷Черно Море (Бог)¬RW÷0¬AX÷0¬BX÷-1¬WQ÷¬WM÷CHE¬AE÷Черно Море (Бог)¬JA÷IB60EP0U¬WU÷cherno-more¬GRA÷0¬WN÷NAF¬AF÷Нефтохимик Бургас (Бог)¬JB÷fXs6Z8Wu¬WV÷neftochimic-burgas¬GRB÷0¬
+
+~AA÷8CA2iq9J¬AD÷1611064800¬ADE÷1611064800¬AB÷3¬CR÷3¬AC÷3¬CX÷Ахмат (Рос)¬RW÷0¬AX÷0¬AO÷1611071686¬BX÷-1¬WQ÷¬WM÷АХМ¬AE÷Ахмат (Рос)¬JA÷tCGDvhMR¬WU÷akhmat-grozny¬AS÷1¬AZ÷1¬GRA÷0¬AG÷3¬WN÷ARB¬AF÷Арберия (Kos)¬JB÷2FMvzCUr¬WV÷arberia¬GRB÷0¬AH÷1¬AM÷Сыграно 3 по 30 мин.¬
+
+~AA÷b556fOrJ¬AD÷1611064800¬ADE÷1611064800¬AB÷3¬CR÷3¬AC÷3¬CX÷Дреница (Kos)¬RW÷0¬AX÷0¬BW÷2¬BX÷-1¬WQ÷¬WM÷DRE¬AE÷Дреница (Kos)¬JA÷jXjCQqI9¬WU÷drenica¬GRA÷0¬AG÷1¬BA÷0¬BC÷1¬WN÷GJI¬AF÷Клуби Футболистик Гжилани (Kos)¬JB÷UNkGP3XF¬WV÷gjilani¬AS÷2¬AZ÷2¬GRB÷0¬AH÷3¬BB÷0¬BD÷3¬
+
+~AA÷Uo1cYHs7¬AD÷1611064800¬ADE÷1611064800¬AB÷3¬CR÷3¬AC÷3¬CX÷Заря (Укр)¬RW÷0¬AX÷0¬AO÷1611071025¬BX÷-1¬WQ÷¬WM÷ЗАР¬AE÷Заря (Укр)¬JA÷QHo16PKq¬WU÷zorya¬AS÷0¬AZ÷0¬GRA÷0¬AG÷2¬BA÷1¬BC÷1¬WN÷VOJ¬AF÷Войводина (Сер)¬JB÷Kvo55qzj¬WV÷vojvodina¬AS÷0¬AZ÷0¬GRB÷0¬AH÷2¬BB÷1¬BD÷1¬
+
+~AA÷dzhZKnjg¬AD÷1611064800¬ADE÷1611064800¬AB÷3¬CR÷3¬AC÷3¬CX÷Олимпия Любляна (Сло)¬RW÷0¬AX÷1¬AO÷1611071432¬BX÷-1¬WQ÷¬WM÷OLJ¬AE÷Олимпия Любляна (Сло)¬JA÷zXAD38nC¬WU÷o-ljubljana¬GRA÷0¬AG÷0¬BA÷0¬BC÷0¬WN÷POD¬AF÷Подбескидзе (Пол)¬JB÷UgAH2S1I¬WV÷podbeskidzie¬AS÷2¬AZ÷2¬GRB÷0¬AH÷2¬BB÷1¬BD÷1¬
+
+~AA÷KnE6j3OP¬AD÷1611066600¬ADE÷1611066600¬AB÷3¬CR÷3¬AC÷3¬CX÷Чайка (Рос)¬RW÷0¬AX÷0¬AO÷1611073138¬BX÷-1¬WQ÷¬WM÷ЧАЙ¬AE÷Чайка (Рос)¬JA÷dxMrZVqk¬WU÷fk-chayka-peschanokopskoye¬GRA÷0¬AG÷3¬BA÷2¬BC÷1¬WN÷КРЫ¬AF÷Крылья Советов (Рос)¬JB÷zTKnYkae¬WV÷krylya-sovetov-samara¬AS÷2¬AZ÷2¬GRB÷0¬AH÷4¬BB÷1¬BD÷3¬
+
+~AA÷SGXFTuHC¬AD÷1611066600¬ADE÷1611066600¬AB÷3¬CR÷3¬AC÷3¬CX÷Шлёнск Вроцлав (Пол)¬RW÷0¬AX÷0¬AO÷1611073001¬BX÷-1¬WQ÷¬WM÷SLA¬AE÷Шлёнск Вроцлав (Пол)¬JA÷0YEcrzN2¬WU÷slask-wroclaw¬AS÷0¬AZ÷0¬GRA÷0¬AG÷2¬BA÷1¬BC÷1¬WN÷ОЛИ¬AF÷Олимпик Донецк (Укр)¬JB÷vPD1sfx9¬WV÷olimpik-donetsk¬AS÷0¬AZ÷0¬GRB÷0¬AH÷2¬BB÷0¬BD÷2¬
+
+~AA÷6LoENeRE¬AD÷1611072000¬ADE÷1611072000¬AB÷3¬CR÷3¬AC÷5¬CX÷Лафнитц (Авт)¬RW÷0¬AX÷0¬BX÷-1¬WQ÷¬WM÷LAF¬AE÷Лафнитц (Авт)¬JA÷CWnGQJYA¬WU÷lafnitz¬GRA÷0¬WN÷ALL¬AF÷Аллерхейлиген (Авт)¬JB÷6gnKPwlH¬WV÷allerheiligen¬GRB÷0¬
+
+~AA÷rXsWRZLg¬AD÷1611075600¬ADE÷1611075600¬AB÷3¬CR÷3¬AC÷3¬CX÷Хорсенс (Дан)¬RW÷0¬AX÷0¬AO÷1611081365¬BX÷-1¬WQ÷¬WM÷HOR¬AE÷Хорсенс (Дан)¬JA÷IoXiyaT2¬WU÷horsens¬AS÷1¬AZ÷1¬GRA÷0¬AG÷4¬BA÷3¬BC÷1¬WN÷MID¬AF÷Миддельфарт (Дан)¬JB÷dxWezJr9¬WV÷middelfart¬GRB÷0¬AH÷0¬BB÷0¬BD÷0¬
+
+~AA÷l0RQ4kIo¬AD÷1611081000¬ADE÷1611081000¬AB÷3¬CR÷3¬AC÷3¬CX÷Фола (Люк)¬RW÷0¬AX÷0¬AO÷1611087642¬BX÷-1¬WQ÷¬WM÷FOL¬AE÷Фола (Люк)¬JA÷j5rdQ8mk¬WU÷fola¬AS÷1¬AZ÷1¬GRA÷0¬AG÷2¬BA÷1¬BC÷1¬WN÷ROD¬AF÷Роданж (Люк)¬JB÷48n0PS2e¬WV÷fc-rodange-91¬GRB÷0¬AH÷0¬BB÷0¬BD÷0¬
+
+~ZA÷МИР: Международные товарищеские матчи - женщины¬ZEE÷QTSAtekc¬ZB÷8¬ZY÷Мир¬ZC÷pvpBrTse¬ZD÷p¬ZE÷0¬ZF÷0¬ZH÷8_QTSAtekc¬ZJ÷2¬ZL÷/football/world/friendly-international-women/¬ZX÷00Мир         003......0730000000001000Международны042енщины000¬ZCC÷0¬ZAF÷Мир¬
+
+~AA÷SnQxjPy2¬AD÷1611014400¬ADE÷1611014400¬AB÷3¬CR÷3¬AC÷3¬CX÷США (Ж)¬RW÷0¬AX÷1¬AO÷1611022593¬BX÷-1¬WQ÷¬WM÷USA¬AE÷США (Ж)¬JA÷bZs0txAS¬WU÷usa¬AS÷1¬AZ÷1¬GRA÷0¬AG÷4¬BA÷2¬BC÷2¬WN÷COL¬AF÷Колумбия (Ж)¬JB÷0rURydIq¬WV÷colombia¬GRB÷0¬AH÷0¬BB÷0¬BD÷0¬AW÷1¬
+
+~ZA÷НИДЕРЛАНДЫ: Первый дивизион¬ZEE÷6Nl8nagD¬ZB÷139¬ZY÷Нидерланды¬ZC÷x2DgUt9c¬ZD÷p¬ZE÷GOModJUE¬ZF÷0¬ZO÷0¬ZG÷1¬ZH÷139_6Nl8nagD¬ZJ÷2¬ZL÷/football/netherlands/eerste-divisie/¬ZX÷00Нидерланды  010рланды0010000000001000Первый дивиз015визион000¬ZCC÷0¬ZAF÷Нидерланды¬
+
+~AA÷vsUBesvC¬AD÷1611000000¬ADE÷1611000000¬AB÷3¬CR÷3¬AC÷3¬CX÷Йонг ПСВ¬RW÷0¬AX÷1¬AO÷1611006884¬BX÷-1¬WQ÷¬WM÷JON¬AE÷Йонг ПСВ¬JA÷4EqeKRx7¬WU÷jong-psv¬AS÷0¬AZ÷0¬GRA÷0¬AG÷1¬BA÷1¬BC÷0¬WN÷BRE¬AF÷Бреда¬JB÷r5raJohD¬WV÷breda¬AS÷0¬AZ÷0¬GRB÷0¬AH÷1¬BB÷0¬BD÷1¬AW÷1¬
+
+~ZA÷НИДЕРЛАНДЫ: Кубок Нидерландов¬ZEE÷4fGZN2oK¬ZB÷139¬ZY÷Нидерланды¬ZC÷vDjWIjGh¬ZD÷p¬ZE÷GdzOYser¬ZF÷0¬ZO÷0¬ZG÷2¬ZH÷139_4fGZN2oK¬ZJ÷2¬ZL÷/football/netherlands/knvb-beker/¬ZX÷00Нидерланды  010рланды0050000000001000Кубок Нидерл017ландов000¬ZCC÷0¬ZAF÷Нидерланды¬
+
+~AA÷GMZuzTcR¬AD÷1611070200¬ADE÷1611070200¬AB÷3¬CR÷3¬AC÷11¬CX÷Маастрихт¬RW÷0¬AX÷1¬AO÷1611079924¬BX÷-1¬WQ÷¬WM÷MAA¬AE÷Маастрихт¬JA÷MJXFehtf¬WU÷maastricht¬AZ÷0¬GRA÷0¬AG÷2¬AT÷2¬BA÷2¬BC÷0¬WN÷EXC¬AF÷Эксельсиор¬JB÷jgxKfCe0¬WV÷excelsior¬AS÷2¬AZ÷0¬BZ÷1¬GRB÷0¬AH÷3¬AU÷2¬BB÷1¬BD÷1¬AW÷1¬
+
+~AA÷ChLBU6Ll¬AD÷1611078300¬ADE÷1611078300¬AB÷3¬CR÷3¬AC÷3¬CX÷Витесс¬RW÷0¬AX÷1¬AO÷1611085192¬BX÷-1¬WQ÷¬WM÷VIT¬AE÷Витесс¬JA÷xAvWiAuJ¬WU÷vitesse¬AS÷1¬AZ÷1¬BY÷1¬GRA÷0¬AG÷2¬BA÷1¬BC÷1¬WN÷HAA¬AF÷Ден Хааг¬JB÷jDSDGgIJ¬WV÷den-haag¬GRB÷0¬AH÷1¬BB÷0¬BD÷1¬AW÷1¬
+
+~AA÷8KEKSpj1¬AD÷1611086400¬ADE÷1611086400¬AB÷2¬CR÷2¬AC÷38¬CX÷ФК Волендам¬RW÷0¬AI÷y¬AX÷1¬AO÷1611089292¬BX÷-1¬WQ÷¬WN÷PSV¬AF÷ПСВ¬JB÷YaCi9BAg¬WV÷psv¬GRB÷0¬AH÷0¬BB÷0¬WM÷ФК¬AE÷ФК Волендам¬JA÷vwDmAiem¬WU÷fc-volendam¬GRA÷0¬AG÷0¬BA÷0¬AL÷{"1":[{"TVI":717,"BU":"http:\/\/matchtv.ru\/","BN":"\u041c\u0430\u0442\u0447 \u0424\u0443\u0442\u0431\u043e\u043b"}],"2":[{"BU":"\/bookmaker\/454\/?from=live-streaming&sport=0","IU":"\/res\/image\/data\/bookmakers\/17-454.png","BN":"Winline","BI":454}]}¬AW÷1¬AN÷y¬MW÷454|453|471|417|16¬
+
+~ZA÷ПОРТУГАЛИЯ: Примейра-лига¬ZEE÷UmMRoGzp¬ZB÷155¬ZY÷Португалия¬ZC÷6mtPHHfM¬ZD÷p¬ZE÷UVQgTPBo¬ZF÷0¬ZO÷0¬ZG÷1¬ZH÷155_UmMRoGzp¬ZJ÷2¬ZL÷/football/portugal/primeira-liga/¬ZX÷00Португалия  010угалия0000000000001000Примейра-лиг013а-лига000¬ZCC÷0¬ZAF÷Португалия¬
+
+~AA÷tSylpSGg¬AD÷1611000900¬ADE÷1611000900¬AB÷3¬CR÷3¬AC÷3¬CX÷Портимоненси¬RW÷0¬AX÷1¬AO÷1611007581¬BX÷-1¬WQ÷¬WM÷ПОР¬AE÷Портимоненси¬JA÷SCSFHMro¬WU÷portimonense¬AS÷1¬AZ÷1¬GRA÷0¬AG÷1¬BA÷1¬BC÷0¬WN÷БЕЛ¬AF÷Белененсеш¬JB÷GSLct6Lo¬WV÷belenenses¬AK÷1¬GRB÷0¬AH÷0¬BB÷0¬BD÷0¬AW÷1¬
+
+~ZA÷ПОРТУГАЛИЯ: Кубок лиги¬ZEE÷WdKOwxDM¬ZB÷155¬ZY÷Португалия¬ZC÷t8DoW1QJ¬ZD÷p¬ZE÷I3mmeBwU¬ZF÷0¬ZO÷0¬ZG÷2¬ZH÷155_WdKOwxDM¬ZJ÷2¬ZL÷/football/portugal/league-cup/¬ZX÷00Португалия  010угалия0090000000001000Кубок лиги  010к лиги000¬ZCC÷0¬ZAF÷Португалия¬
+
+~AA÷OfmxSOCC¬AD÷1611085500¬ADE÷1611085500¬AB÷2¬CR÷2¬AC÷13¬CX÷Спортинг¬RW÷0¬AI÷y¬AX÷1¬AO÷1611089723¬BX÷¬WQ÷¬WN÷FCP¬AF÷Порту¬JB÷MNeaoi5R¬WV÷fc-porto¬GRB÷0¬AH÷0¬BB÷0¬BD÷0¬WM÷SPO¬AE÷Спортинг¬JA÷S0denXkL¬WU÷sporting-lisbon¬GRA÷0¬AG÷0¬BA÷0¬BC÷0¬AL÷{"2":[{"BU":"\/bookmaker\/16\/?from=live-streaming&sport=0","IU":"\/res\/image\/data\/bookmakers\/17-16.png","BN":"bet365","BI":16,"BT":"GEO restrictions apply. Funded account required or to have placed a bet in the last 24 hours. GamblingTherapy.org. 18+"},{"BU":"\/bookmaker\/454\/?from=live-streaming&sport=0","IU":"\/res\/image\/data\/bookmakers\/17-454.png","BN":"Winline","BI":454}]}¬AM÷Нейтральное поле.¬AW÷1¬AN÷y¬MW÷454|453|471|417|16¬
+
+~ZA÷РУМЫНИЯ: Высшая лига¬ZEE÷GILi6JC9¬ZB÷157¬ZY÷Румыния¬ZC÷4nG4HqNC¬ZD÷p¬ZE÷QFevt1uA¬ZF÷0¬ZO÷0¬ZG÷1¬ZH÷157_GILi6JC9¬ZJ÷2¬ZL÷/football/romania/liga-1/¬ZX÷00Румыния     007умыния0000000000001000Высшая лига 011я лига000¬ZCC÷0¬ZAF÷Румыния¬
+
+~AA÷CAGSpihD¬AD÷1611068400¬ADE÷1611068400¬AB÷3¬CR÷3¬AC÷3¬CX÷Волунтари¬RW÷0¬AX÷1¬AO÷1611075317¬BX÷-1¬WQ÷¬WM÷ВОЛ¬AE÷Волунтари¬JA÷8tixK7N4¬WU÷voluntari¬GRA÷0¬AG÷0¬BA÷0¬BC÷0¬WN÷UTA¬AF÷UTA Arad¬JB÷nXktJRxB¬WV÷fc-uta-arad¬AS÷2¬AZ÷2¬GRB÷0¬AH÷1¬BB÷0¬BD÷1¬AW÷1¬
+
+~AA÷0WhJ7EaQ¬AD÷1611079200¬ADE÷1611079200¬AB÷3¬CR÷3¬AC÷3¬CX÷Вииторул¬RW÷0¬AX÷1¬AO÷1611086027¬BX÷-1¬WQ÷¬WM÷ВИТ¬AE÷Вииторул¬JA÷OQn1zT7o¬WU÷viitorul-constanta¬AS÷0¬AZ÷0¬GRA÷0¬AG÷2¬BA÷1¬BC÷1¬WN÷FCS¬AF÷Стяуа¬JB÷2Ho5ZnNi¬WV÷fcsb¬AS÷0¬AZ÷0¬GRB÷0¬AH÷2¬BB÷0¬BD÷2¬AW÷1¬
+
+~ZA÷САУДОВСКАЯ АРАВИЯ: Премьер-лига¬ZEE÷tUxUbLR2¬ZB÷165¬ZY÷Саудовская Аравия¬ZC÷h0z2aj4q¬ZD÷p¬ZE÷2HS2aJO2¬ZF÷0¬ZO÷0¬ZG÷1¬ZH÷165_tUxUbLR2¬ZJ÷2¬ZL÷/football/saudi-arabia/saudi-professional-league/¬ZX÷00Саудовская А017Аравия0000000000001000Премьер-лига012р-лига000¬ZCC÷0¬ZAF÷Саудовская Аравия¬
+
+~AA÷KAAQEeDg¬AD÷1611060000¬ADE÷1611060000¬AB÷3¬CR÷3¬AC÷3¬CX÷Аль-Раед¬RW÷0¬AX÷1¬AO÷1611066751¬BX÷-1¬WQ÷¬WM÷RAE¬AE÷Аль-Раед¬JA÷A9sxKvQ6¬WU÷al-raed¬GRA÷0¬AG÷2¬BA÷1¬BC÷1¬WN÷ETT¬AF÷Аль-Иттифак¬JB÷4WttJbuD¬WV÷al-ettifaq-fc¬AS÷2¬AZ÷2¬GRB÷0¬AH÷3¬BB÷0¬BD÷3¬AW÷1¬
+
+~AA÷CpBMFybm¬AD÷1611061200¬ADE÷1611061200¬AB÷3¬CR÷3¬AC÷3¬CX÷Аль-Аин¬RW÷0¬AX÷1¬AO÷1611068023¬BX÷-1¬WQ÷¬WM÷ALA¬AE÷Аль-Аин¬JA÷2qvUL0ef¬WU÷al-ain¬GRA÷0¬AG÷1¬BA÷0¬BC÷1¬WN÷ITT¬AF÷Аль-Иттихад¬JB÷d6wYKKA0¬WV÷al-ittihad-fc¬AS÷2¬AZ÷2¬GRB÷0¬AH÷2¬BB÷2¬BD÷0¬AW÷1¬
+
+~AA÷SCZkLczQ¬AD÷1611067800¬ADE÷1611067800¬AB÷3¬CR÷3¬AC÷3¬CX÷Аль-Кадисия¬RW÷0¬AX÷1¬AO÷1611074900¬BX÷-1¬WQ÷¬WM÷QAD¬AE÷Аль-Кадисия¬JA÷bmkjTr3K¬WU÷al-qadisiya¬AS÷0¬AZ÷0¬GRA÷0¬AG÷1¬BA÷1¬BC÷0¬WN÷FAT¬AF÷Аль-Фат¬JB÷hAlfS2IQ¬WV÷al-fateh¬AS÷0¬AZ÷0¬GRB÷0¬AH÷1¬BB÷0¬BD÷1¬AW÷1¬
+
+~AA÷b19UDFSa¬AD÷1611069000¬ADE÷1611069000¬AB÷3¬CR÷3¬AC÷3¬CX÷Аль-Шабаб¬RW÷0¬AX÷1¬AO÷1611076090¬BX÷-1¬WQ÷¬WM÷SHA¬AE÷Аль-Шабаб¬JA÷rNupIIfJ¬WU÷al-shabab¬AS÷0¬AZ÷0¬GRA÷0¬AG÷1¬BA÷1¬BC÷0¬WN÷FAY¬AF÷Аль-Файзали Харма¬JB÷dvqRt2XJ¬WV÷al-faisaly¬AS÷0¬AZ÷0¬GRB÷0¬AH÷1¬BB÷1¬BD÷0¬AW÷1¬
+
+~AA÷tQbZCZs6¬AD÷1611076200¬ADE÷1611076200¬AB÷3¬CR÷3¬AC÷3¬CX÷Аль-Ахли¬RW÷0¬AX÷1¬AO÷1611083193¬BX÷-1¬WQ÷¬WM÷AHL¬AE÷Аль-Ахли¬JA÷zVsVuMnQ¬WU÷al-ahli-sc¬AS÷1¬AZ÷1¬GRA÷0¬AG÷3¬BA÷2¬BC÷1¬WN÷АБХ¬AF÷Абха¬JB÷hAUdytes¬WV÷abha¬GRB÷0¬AH÷0¬BB÷0¬BD÷0¬AW÷1¬
+
+~ZA÷САУДОВСКАЯ АРАВИЯ: Первый дивизион¬ZEE÷8fhFSggG¬ZB÷165¬ZY÷Саудовская Аравия¬ZC÷4zv6bAJk¬ZD÷c¬ZE÷t8R6bwv9¬ZF÷0¬ZO÷0¬ZG÷1¬ZH÷165_8fhFSggG¬ZJ÷2¬ZL÷/football/saudi-arabia/division-1/¬ZX÷00Саудовская А017Аравия0010000000001000Первый дивиз015визион000¬ZCC÷0¬ZAF÷Саудовская Аравия¬
+
+~AA÷GhMEiorS¬AD÷1611058500¬ADE÷1611058500¬AB÷3¬CR÷3¬AC÷3¬CX÷Аль-Адалх¬RW÷0¬AX÷0¬AO÷1611065428¬BX÷-1¬WQ÷¬WM÷АЛЬ¬AE÷Аль-Адалх¬JA÷SQctqb3N¬WU÷al-adalh¬AS÷1¬AZ÷1¬GRA÷0¬AG÷3¬BA÷1¬BC÷2¬WN÷ARA¬AF÷Arar¬JB÷d02prIIT¬WV÷arar¬GRB÷0¬AH÷1¬BB÷1¬BD÷0¬
+
+~AA÷MZbsm5jq¬AD÷1611058500¬ADE÷1611058500¬AB÷3¬CR÷3¬AC÷3¬CX÷Хаджер¬RW÷0¬AX÷0¬AO÷1611065278¬BX÷-1¬WQ÷¬WM÷HAJ¬AE÷Хаджер¬JA÷b9lCwxRp¬WU÷hajer¬AS÷1¬AZ÷1¬GRA÷0¬AG÷4¬BA÷2¬BC÷2¬WN÷NAJ¬AF÷Наджран¬JB÷CCxf2L3o¬WV÷najran¬GRB÷0¬AH÷3¬BB÷1¬BD÷2¬
+
+~AA÷0QconP5k¬AD÷1611059400¬ADE÷1611059400¬AB÷3¬CR÷3¬AC÷3¬CX÷Аль-Кавкаб¬RW÷0¬AX÷0¬AO÷1611066419¬BX÷-1¬WQ÷¬WM÷ALK¬AE÷Аль-Кавкаб¬JA÷QFtb1uJi¬WU÷al-kawkab¬AJ÷1¬GRA÷0¬AG÷1¬BA÷0¬BC÷1¬WN÷TAE¬AF÷Аль-Таи¬JB÷Kxt20aYc¬WV÷al-taee¬AS÷2¬AZ÷2¬GRB÷0¬AH÷2¬BB÷1¬BD÷1¬
+
+~AA÷f1CloqLe¬AD÷1611060000¬ADE÷1611060000¬AB÷3¬CR÷3¬AC÷3¬CX÷Аль-Букайрия¬RW÷0¬AX÷0¬AO÷1611066817¬BX÷-1¬WQ÷¬WM÷АЛЬ¬AE÷Аль-Букайрия¬JA÷bTv6aJm4¬WU÷al-bukayriyah¬GRA÷0¬AG÷0¬BA÷0¬BC÷0¬WN÷АЛЬ¬AF÷Аль-Хазм¬JB÷6gvAbw3A¬WV÷al-hazm¬AS÷2¬AZ÷2¬GRB÷0¬AH÷1¬BB÷0¬BD÷1¬
+
+~AA÷YiBhp3z2¬AD÷1611067500¬ADE÷1611067500¬AB÷3¬CR÷3¬AC÷3¬CX÷Аль-Сахель¬RW÷0¬AX÷0¬AO÷1611074428¬BX÷-1¬WQ÷¬WM÷AL-¬AE÷Аль-Сахель¬JA÷ppwEccIG¬WU÷al-sahel¬AS÷0¬AZ÷0¬GRA÷0¬AG÷0¬BA÷0¬BC÷0¬WN÷SHO¬AF÷Аль-Шола¬JB÷xt1stVnq¬WV÷al-shoalah¬AS÷0¬AZ÷0¬GRB÷0¬AH÷0¬BB÷0¬BD÷0¬
+
+~AA÷zcky9nD2¬AD÷1611070800¬ADE÷1611070800¬AB÷3¬CR÷3¬AC÷3¬CX÷Джидда Клаб¬RW÷0¬AX÷0¬AO÷1611078226¬BX÷-1¬WQ÷¬WM÷ДЖИ¬AE÷Джидда Клаб¬JA÷jq5ouk2k¬WU÷jeddah-club¬GRA÷0¬AG÷1¬BA÷1¬BC÷0¬WN÷ALD¬AF÷Аль-Драих¬JB÷p64kv9He¬WV÷al-draih¬AS÷2¬AZ÷2¬GRB÷0¬AH÷2¬BB÷1¬BD÷1¬
+
+~ZA÷СЕВЕРНАЯ ИРЛАНДИЯ: Премьер-лига¬ZEE÷MgHlK2Na¬ZB÷144¬ZY÷Северная Ирландия¬ZC÷dIvRMXQ2¬ZD÷p¬ZE÷z9qutVNs¬ZF÷0¬ZO÷0¬ZG÷1¬ZH÷144_MgHlK2Na¬ZJ÷2¬ZL÷/football/northern-ireland/nifl-premiership/¬ZX÷00Северная Ирл017ландия0000000000001000Премьер-лига012р-лига000¬ZCC÷0¬ZAF÷Северная Ирландия¬
+
+~AA÷pWYAiDXA¬AD÷1611085500¬ADE÷1611085500¬AB÷3¬CR÷3¬AC÷4¬CX÷Данганнон¬RW÷0¬AX÷0¬BX÷-1¬WQ÷¬WM÷DUN¬AE÷Данганнон¬JA÷OheDfrsS¬WU÷dungannon¬GRA÷0¬WN÷CAR¬AF÷Каррик Рейнджерс¬JB÷tYsuj2kq¬WV÷c-rangers¬GRB÷0¬
+
+~AA÷l4u2gZ2b¬AD÷1611085500¬ADE÷1611085500¬AB÷3¬CR÷3¬AC÷4¬CX÷Колрейн¬RW÷0¬AX÷0¬BX÷-1¬WQ÷¬WM÷COL¬AE÷Колрейн¬JA÷AVlcbQs3¬WU÷coleraine¬GRA÷0¬WN÷POR¬AF÷Портадаун¬JB÷v5g1cpc9¬WV÷portadown¬GRB÷0¬
+
+~AA÷6uz7hgI4¬AD÷1611085500¬ADE÷1611085500¬AB÷3¬CR÷3¬AC÷4¬CX÷Крусейдерс¬RW÷0¬AX÷0¬BX÷-1¬WQ÷¬WM÷CRU¬AE÷Крусейдерс¬JA÷Ieh5d4CF¬WU÷crusaders¬GRA÷0¬WN÷LIN¬AF÷Линфилд¬JB÷CIi9eORL¬WV÷linfield¬GRB÷0¬
+
+~AA÷zLRNlBHT¬AD÷1611085500¬ADE÷1611085500¬AB÷3¬CR÷3¬AC÷4¬CX÷Ларн¬RW÷0¬AX÷0¬BX÷-1¬WQ÷¬WM÷AEK¬AE÷Ларн¬JA÷fexwB3R8¬WU÷larne¬GRA÷0¬WN÷WAR¬AF÷Уорренпоинт¬JB÷lIysANtF¬WV÷warrenpoint¬GRB÷0¬
+
+~ZA÷СОМАЛИ: Чемпионат¬ZEE÷ncDHsctt¬ZB÷174¬ZY÷Сомали¬ZC÷zVbiCcrL¬ZD÷c¬ZE÷IXlZ1fq2¬ZF÷2¬ZO÷0¬ZG÷1¬ZH÷174_ncDHsctt¬ZJ÷2¬ZL÷/football/somalia/nation-link-telecom-championship/¬ZX÷00Сомали      006Сомали0000000000001000Чемпионат   009пионат000¬ZCC÷0¬ZAF÷Сомали¬
+
+~AA÷zyKt1GA7¬AD÷1611059400¬ADE÷1611059400¬AB÷3¬CR÷3¬AC÷3¬CX÷Geeska Afrika¬RW÷0¬AX÷0¬BX÷-1¬WQ÷¬WM÷GEE¬AE÷Geeska Afrika¬JA÷29cwiI9R¬WU÷geeska-afrika¬AS÷0¬AZ÷0¬GRA÷0¬AG÷0¬BA÷0¬BC÷0¬WN÷JEE¬AF÷ЛЛПП¬JB÷4Iq5nxIr¬WV÷jeenyo¬AS÷0¬AZ÷0¬GRB÷0¬AH÷0¬BB÷0¬BD÷0¬
+
+~ZA÷СУДАН: Премьер-лига¬ZEE÷C8GbNR5e¬ZB÷178¬ZY÷Судан¬ZC÷Gbez2Wdg¬ZD÷c¬ZE÷G4pA8p4C¬ZF÷2¬ZO÷0¬ZG÷1¬ZH÷178_C8GbNR5e¬ZJ÷2¬ZL÷/football/sudan/premier-league/¬ZX÷00Судан       005......0000000000001000Премьер-лига012р-лига000¬ZCC÷0¬ZAF÷Судан¬
+
+~AA÷Ewwj7UXQ¬AD÷1611061200¬ADE÷1611061200¬AB÷3¬CR÷3¬AC÷3¬CX÷Аль-Шорта¬RW÷0¬AX÷0¬BX÷-1¬WQ÷¬WM÷ALS¬AE÷Аль-Шорта¬JA÷vHJo2azl¬WU÷al-shorta¬GRA÷0¬AG÷0¬BA÷0¬BC÷0¬WN÷KHA¬AF÷Аль-Хартум¬JB÷I7Ik1Jkf¬WV÷al-khartoum¬AS÷2¬AZ÷2¬GRB÷0¬AH÷2¬BB÷1¬BD÷1¬
+
+~AA÷bBEM18el¬AD÷1611072900¬ADE÷1611072900¬AB÷1¬CR÷1¬AC÷1¬CX÷Аль-Меррейх¬RW÷0¬AX÷0¬BX÷-1¬WQ÷¬WN÷HIL¬AF÷Хиляль Эль Обиед¬JB÷boK5cykJ¬WV÷hilal-el-obied¬GRB÷0¬WM÷MER¬AE÷Аль-Меррейх¬JA÷KfL1bHZC¬WU÷al-merreikh¬GRA÷0¬AN÷n¬
+
+~AA÷KKFI2ltr¬AD÷1611072900¬ADE÷1611072900¬AB÷1¬CR÷1¬AC÷1¬CX÷Меррейх Эль-Фашер¬RW÷0¬AX÷0¬BX÷-1¬WQ÷¬WN÷ХАЙ¬AF÷Хай Аль-Араб¬JB÷QXLcacK6¬WV÷hay-al-arab¬GRB÷0¬WM÷MER¬AE÷Меррейх Эль-Фашер¬JA÷CUHg0w50¬WU÷merreikh-el-fasher¬GRA÷0¬AN÷y¬MW÷453|471|417|491¬
+
+~ZA÷ТУРЦИЯ: Суперлига¬ZEE÷Opdcd08Q¬ZB÷191¬ZY÷Турция¬ZC÷4Q6NO4a2¬ZD÷p¬ZE÷EmKb5cE7¬ZF÷0¬ZO÷0¬ZG÷1¬ZH÷191_Opdcd08Q¬ZJ÷2¬ZL÷/football/turkey/super-lig/¬ZX÷00Турция      006Турция0000000000001000Суперлига   009ерлига000¬ZCC÷0¬ZAF÷Турция¬
+
+~AA÷K4FUQJTt¬AD÷1611061200¬ADE÷1611061200¬AB÷3¬CR÷3¬AC÷3¬CX÷Гёзтепе¬RW÷0¬AX÷1¬AO÷1611067974¬BX÷-1¬WQ÷¬WM÷GOZ¬AE÷Гёзтепе¬JA÷biXeXeW5¬WU÷goztepe¬AS÷1¬AZ÷1¬GRA÷0¬AG÷4¬BA÷3¬BC÷1¬WN÷ГЕН¬AF÷Генчлербирлиги¬JB÷xrWaWFoC¬WV÷genclerbirligi-sk¬GRB÷0¬AH÷0¬BB÷0¬BD÷0¬AW÷1¬
+
+~AA÷v710rnaE¬AD÷1611061200¬ADE÷1611061200¬AB÷3¬CR÷3¬AC÷3¬CX÷Кайсериспор¬RW÷0¬AX÷1¬AO÷1611068374¬BX÷-1¬WQ÷¬WM÷KAY¬AE÷Кайсериспор¬JA÷CzZmZH1g¬WU÷kayserispor¬AS÷1¬AZ÷1¬GRA÷0¬AG÷2¬BA÷1¬BC÷1¬WN÷BAS¬AF÷Башакшехир¬JB÷jRXiYyHa¬WV÷basaksehir¬GRB÷0¬AH÷0¬BB÷0¬BD÷0¬AW÷1¬
+
+~AA÷beEYPwqm¬AD÷1611072000¬ADE÷1611072000¬AB÷3¬CR÷3¬AC÷3¬CX÷Трабзонспор¬RW÷0¬AX÷1¬AO÷1611078913¬BX÷-1¬WQ÷¬WM÷TRA¬AE÷Трабзонспор¬JA÷W4V3VZ0I¬WU÷trabzonspor¬AS÷1¬AZ÷1¬GRA÷0¬AG÷3¬BA÷1¬BC÷2¬WN÷КОН¬AF÷Коньяспор¬JB÷p8Z7UgGO¬WV÷konyaspor¬GRB÷0¬AH÷1¬BB÷0¬BD÷1¬AW÷1¬
+
+~ZA÷УРУГВАЙ: Премьер-лига - Клаусура¬ZEE÷r9s6zO6P¬ZB÷201¬ZY÷Уругвай¬ZC÷4lmp39am¬ZD÷p¬ZE÷4l5P4Mpq¬ZF÷0¬ZO÷0¬ZG÷1¬ZH÷201_r9s6zO6P¬ZJ÷24¬ZL÷/football/uruguay/primera-division/¬ZX÷00Уругвай     007ругвай0000000000001000Премьер-лига023аусура000¬ZCC÷0¬ZAF÷Уругвай¬
+
+~AA÷YJZHF7B9¬AD÷1611000000¬ADE÷1611000000¬AB÷3¬CR÷3¬AC÷3¬CX÷Пласа Колония¬RW÷0¬AX÷1¬AO÷1611007047¬BX÷-1¬WQ÷¬WM÷PLA¬AE÷Пласа Колония¬JA÷2BS335qL¬WU÷plaza-colonia¬AS÷0¬AZ÷0¬GRA÷0¬AG÷0¬BA÷0¬BC÷0¬WN÷LIV¬AF÷Ливерпуль Монтевидео¬JB÷dYR72PbR¬WV÷liverpool-m¬AS÷0¬AZ÷0¬GRB÷0¬AH÷0¬BB÷0¬BD÷0¬
+
+~AA÷v7wShp4d¬AD÷1611008100¬ADE÷1611008100¬AB÷3¬CR÷3¬AC÷3¬CX÷Бостон Ривер¬RW÷0¬AX÷1¬AO÷1611014612¬BX÷-1¬WQ÷¬WM÷BOS¬AE÷Бостон Ривер¬JA÷E7i4ayRk¬WU÷boston-river¬AS÷1¬AZ÷1¬GRA÷0¬AG÷5¬BA÷2¬BC÷3¬WN÷MAL¬AF÷Мальдонадо¬JB÷8Uj8betd¬WV÷maldonado¬GRB÷0¬AH÷0¬BB÷0¬BD÷0¬
+
+~ZA÷УРУГВАЙ: Сегунда - Плей-офф¬ZEE÷dz4MxG6F¬ZB÷201¬ZY÷Уругвай¬ZC÷CxXcpL9l¬ZD÷p¬ZE÷vu7oU50I¬ZF÷0¬ZO÷0¬ZG÷2¬ZH÷201_dz4MxG6F¬ZJ÷11¬ZL÷/football/uruguay/segunda-division/¬ZX÷00Уругвай     007ругвай0010000000001000Сегунда - Пл018ей-офф000¬ZCC÷0¬ZAF÷Уругвай¬
+
+~AA÷I1G8VYUr¬AD÷1611087300¬ADE÷1611087300¬AB÷2¬CR÷2¬AC÷12¬CX÷Хувентуд¬RW÷0¬AI÷y¬AX÷0¬AO÷1611087508¬BX÷¬WQ÷¬WM÷JUV¬AE÷Хувентуд¬JA÷bXt0dePs¬WU÷juventud¬GRA÷0¬AG÷1¬BA÷1¬WN÷SUD¬AF÷Суд Америка¬JB÷hft4eFvl¬WV÷sud-america¬GRB÷0¬AH÷0¬BB÷0¬AM÷Результат первого матча: 0-2.¬AN÷y¬MW÷453|471|417¬
+
+~ZA÷ФРАНЦИЯ: Кубок Франции¬ZEE÷AaHxMIcd¬ZB÷77¬ZY÷Франция¬ZC÷EsZnfHkK¬ZD÷p¬ZE÷KjKgfVmA¬ZF÷0¬ZO÷0¬ZG÷2¬ZH÷77_AaHxMIcd¬ZJ÷2¬ZL÷/football/france/coupe-de-france/¬ZX÷00Франция     007ранция0080000000001000Кубок Франци013ранции000¬ZCC÷0¬ZAF÷Франция¬
+
+~AA÷xrZCK6Yb¬AD÷1611068400¬ADE÷1611068400¬AB÷3¬CR÷3¬AC÷3¬CX÷Гавр¬RW÷0¬AX÷0¬AO÷1611075036¬BX÷-1¬WQ÷¬WM÷HAV¬AE÷Гавр¬JA÷j7Px8cdP¬WU÷le-havre¬GRA÷0¬AG÷0¬BA÷0¬BC÷0¬WN÷PAR¬AF÷ФК Париж¬JB÷SSG43H4t¬WV÷paris-fc¬AS÷2¬AZ÷2¬BZ÷1¬GRB÷0¬AH÷1¬BB÷1¬BD÷0¬
+
+~AA÷2RB63Ec7¬AD÷1611075600¬ADE÷1611075600¬AB÷3¬CR÷3¬AC÷3¬CX÷Валансьен¬RW÷0¬AX÷0¬AO÷1611082427¬BX÷-1¬WQ÷¬WM÷VAL¬AE÷Валансьен¬JA÷KUFyqjNd¬WU÷valenciennes¬AS÷1¬AZ÷1¬BY÷1¬GRA÷0¬AG÷2¬BA÷2¬BC÷0¬WN÷CHA¬AF÷Шамбли¬JB÷IFYvrAx3¬WV÷chambly¬GRB÷0¬AH÷0¬BB÷0¬BD÷0¬
+
+~AA÷ny9f6GDl¬AD÷1611075600¬ADE÷1611075600¬AB÷3¬CR÷3¬AC÷11¬CX÷Дюнкерк¬RW÷0¬AX÷0¬AO÷1611082878¬BX÷-1¬WQ÷¬WM÷ДЮН¬AE÷Дюнкерк¬JA÷lSYBSUxG¬WU÷dunkerque¬AZ÷0¬GRA÷0¬AG÷1¬AT÷1¬BA÷0¬BC÷1¬WN÷AMI¬AF÷Амьен¬JB÷2VxGRlhM¬WV÷amiens-sc¬AS÷2¬AZ÷0¬BZ÷1¬GRB÷0¬AH÷2¬AU÷1¬BB÷1¬BD÷0¬
+
+~AA÷8jc34fr1¬AD÷1611075600¬ADE÷1611075600¬AB÷3¬CR÷3¬AC÷11¬CX÷По¬RW÷0¬AX÷0¬AO÷1611083378¬BX÷-1¬WQ÷¬WM÷PAU¬AE÷По¬JA÷SzTkLnVk¬WU÷pau¬AZ÷0¬GRA÷0¬AG÷0¬AT÷0¬BA÷0¬BC÷0¬WN÷ROD¬AF÷Родез¬JB÷6RRgK6pd¬WV÷rodez¬AS÷2¬AZ÷0¬BZ÷1¬GRB÷0¬AH÷1¬AU÷0¬BB÷0¬BD÷0¬
+
+~AA÷rNlgRHkE¬AD÷1611075600¬ADE÷1611075600¬AB÷3¬CR÷3¬AC÷3¬CX÷Шатору¬RW÷0¬AX÷0¬AO÷1611082323¬BX÷-1¬WQ÷¬WM÷CHA¬AE÷Шатору¬JA÷Iy0GOLyr¬WU÷chateauroux¬GRA÷0¬AG÷0¬BA÷0¬BC÷0¬WN÷AJA¬AF÷Аяччо¬JB÷dSbKNuil¬WV÷ac-ajaccio¬AS÷2¬AZ÷2¬BZ÷1¬GRB÷0¬AH÷2¬BB÷1¬BD÷1¬
+
+~AA÷AeXKIp3B¬AD÷1611086400¬ADE÷1611086400¬AB÷2¬CR÷2¬AC÷38¬CX÷Осер¬RW÷0¬AI÷y¬AX÷0¬AO÷1611089161¬BX÷-1¬WQ÷¬WM÷AUX¬AE÷Осер¬JA÷86IKaZ35¬WU÷auxerre¬GRA÷0¬AG÷0¬BA÷0¬WN÷TRO¬AF÷Труа¬JB÷UFJG0Fla¬WV÷troyes¬GRB÷0¬AH÷0¬BB÷0¬AL÷{"2":[{"BU":"\/bookmaker\/16\/?from=live-streaming&sport=0","IU":"\/res\/image\/data\/bookmakers\/17-16.png","BN":"bet365","BI":16,"BT":"GEO restrictions apply. Funded account required or to have placed a bet in the last 24 hours. GamblingTherapy.org. 18+"},{"BU":"\/bookmaker\/454\/?from=live-streaming&sport=0","IU":"\/res\/image\/data\/bookmakers\/17-454.png","BN":"Winline","BI":454}]}¬AN÷y¬MW÷454|453|471|417|16¬
+
+~ZA÷ХОРВАТИЯ: Первый дивизион¬ZEE÷nqMxclRN¬ZB÷59¬ZY÷Хорватия¬ZC÷fD6s0AN8¬ZD÷p¬ZE÷jNKcboB8¬ZF÷0¬ZO÷0¬ZG÷1¬ZH÷59_nqMxclRN¬ZJ÷2¬ZL÷/football/croatia/1-hnl/¬ZX÷00Хорватия    008рватия0000000000001000Первый дивиз015визион000¬ZCC÷0¬ZAF÷Хорватия¬
+
+~AA÷Gtl8uFph¬AD÷1611068400¬ADE÷1611068400¬AB÷3¬CR÷3¬AC÷3¬CX÷Истра 1961¬RW÷0¬AX÷1¬AO÷1611074998¬BX÷-1¬WQ÷¬WM÷196¬AE÷Истра 1961¬JA÷Clxd2eo7¬WU÷istra-1961¬AS÷0¬AZ÷0¬GRA÷0¬AG÷1¬BA÷0¬BC÷1¬WN÷GOR¬AF÷Горица¬JB÷juy01F0D¬WV÷hnk-gorica¬AS÷0¬AZ÷0¬GRB÷0¬AH÷1¬BB÷0¬BD÷1¬AW÷1¬
+
+~AA÷21bhzQ7J¬AD÷1611075900¬ADE÷1611075900¬AB÷3¬CR÷3¬AC÷3¬CX÷Динамо Загреб¬RW÷0¬AX÷1¬AO÷1611082690¬BX÷-1¬WQ÷¬WM÷DIN¬AE÷Динамо Загреб¬JA÷M7ydKaWB¬WU÷din-zagreb¬GRA÷0¬AG÷0¬BA÷0¬BC÷0¬WN÷RIJ¬AF÷Риека¬JB÷0bz0JJoI¬WV÷rijeka¬AS÷2¬AZ÷2¬GRB÷0¬AH÷2¬BB÷0¬BD÷2¬AW÷1¬
+
+~ZA÷ХОРВАТИЯ: Суперкубок¬ZEE÷tINNchXL¬ZB÷59¬ZY÷Хорватия¬ZC÷YuBxcoMI¬ZD÷p¬ZE÷x4pIMIP7¬ZF÷0¬ZO÷0¬ZG÷2¬ZH÷59_tINNchXL¬ZJ÷2¬ZL÷/football/croatia/super-cup/¬ZX÷00Хорватия    008рватия0080000000001000Суперкубок  010ркубок000¬ZCC÷0¬ZAF÷Хорватия¬
+
+~AA÷EiOrtXva¬AD÷1611072000¬ADE÷1611072000¬AB÷3¬CR÷3¬AC÷4¬CX÷Динамо Загреб¬RW÷0¬AX÷0¬AO÷1609872721¬BX÷-1¬WQ÷¬WM÷DIN¬AE÷Динамо Загреб¬JA÷hCmqz9Us¬WU÷din-zagreb¬GRA÷0¬WN÷RIJ¬AF÷Риека¬JB÷nZnmZSql¬WV÷rijeka¬GRB÷0¬AW÷1¬
+
+~ZA÷ЧЕХИЯ: Кубок МОЛ¬ZEE÷bmNStgNk¬ZB÷62¬ZY÷Чехия¬ZC÷ITQBmmGF¬ZD÷c¬ZE÷EapqmQOC¬ZF÷0¬ZO÷0¬ZG÷2¬ZH÷62_bmNStgNk¬ZJ÷2¬ZL÷/football/czech-republic/mol-cup/¬ZX÷00Чехия       005......3300000000001000Кубок МОЛ   009ок МОЛ000¬ZCC÷0¬ZAF÷Чехия¬
+
+~AA÷OY18My9t¬AD÷1611066600¬ADE÷1611066600¬AB÷3¬CR÷3¬AC÷3¬CX÷Славия Прага¬RW÷0¬AX÷1¬AO÷1611073258¬BX÷-1¬WQ÷¬WM÷SLA¬AE÷Славия Прага¬JA÷OAfZPU7P¬WU÷slavia-prague¬AS÷1¬AZ÷1¬BY÷1¬GRA÷0¬AG÷4¬BA÷3¬BC÷1¬WN÷ДУК¬AF÷Дукла Прага¬JB÷QJt1LlGt¬WV÷dukla-prague¬GRB÷0¬AH÷1¬BB÷0¬BD÷1¬AW÷1¬
+
+~ZA÷ЧЕХИЯ: Кубок Типспорт¬ZEE÷lIEDEbyN¬ZB÷62¬ZY÷Чехия¬ZC÷bJxh5Dyr¬ZD÷c¬ZE÷zHkIjCh6¬ZF÷0¬ZO÷0¬ZG÷1¬ZH÷62_lIEDEbyN¬ZJ÷2¬ZL÷/football/czech-republic/tipsport-liga/¬ZX÷00Чехия       005......3340000000001000Кубок Типспо014пспорт000¬ZCC÷0¬ZAF÷Чехия¬
+
+~AA÷jXk2zTyn¬AD÷1611057600¬ADE÷1611057600¬AB÷3¬CR÷3¬AC÷3¬CX÷Спартак Трнава¬RW÷0¬AX÷1¬AO÷1611063514¬BX÷-1¬WQ÷¬WM÷TRN¬AE÷Спартак Трнава¬JA÷rJ3eenKl¬WU÷spartak-trnava¬AS÷0¬AZ÷0¬GRA÷0¬AG÷2¬BA÷2¬BC÷0¬WN÷SKA¬AF÷Скалица¬JB÷jq3af6Zf¬WV÷skalica¬AS÷0¬AZ÷0¬GRB÷0¬AH÷2¬BB÷0¬BD÷2¬AM÷Нейтральное поле.¬
+
+~ZA÷ЧИЛИ: Высший дивизион¬ZEE÷0KangpCU¬ZB÷51¬ZY÷Чили¬ZC÷6cPUmx6j¬ZD÷p¬ZE÷EweYM5fo¬ZF÷0¬ZO÷1¬ZG÷1¬ZH÷51_0KangpCU¬ZJ÷2¬ZL÷/football/chile/primera-division/¬ZX÷00Чили        004......0000000000001000Высший дивиз015визион000¬ZCC÷0¬ZAF÷Чили¬
+
+~AA÷OxdvalQo¬AD÷1611000000¬ADE÷1611000000¬AB÷3¬CR÷3¬AC÷3¬CX÷Сантьяго Вандерерс¬RW÷0¬AX÷1¬AO÷1611007184¬BX÷-1¬WQ÷¬WM÷WAN¬AE÷Сантьяго Вандерерс¬JA÷zXKg43se¬WU÷s-wanderers¬AS÷0¬AZ÷0¬AJ÷1¬GRA÷0¬AG÷0¬BA÷0¬BC÷0¬WN÷SER¬AF÷Депортес Ла Серена¬JB÷UgKc3Nd1¬WV÷la-serena¬AS÷0¬AZ÷0¬GRB÷0¬AH÷0¬BB÷0¬BD÷0¬AW÷1¬
+
+~AA÷xt0rb8uh¬AD÷1611008100¬ADE÷1611008100¬AB÷3¬CR÷3¬AC÷3¬CX÷Аудакс Итальяно¬RW÷0¬AX÷1¬AO÷1611015237¬BX÷-1¬WQ÷¬WM÷ITA¬AE÷Аудакс Итальяно¬JA÷8pJ12sC7¬WU÷a-italiano¬AJ÷1¬GRA÷0¬AG÷1¬BA÷0¬BC÷1¬WN÷UNI¬AF÷Унион Ла Калера¬JB÷d0CqRQl8¬WV÷union-la-calera¬AS÷2¬AZ÷2¬GRB÷0¬AH÷3¬BB÷1¬BD÷2¬AW÷1¬
+
+~AA÷AgbjdnA4¬AD÷1611063000¬ADE÷1611063000¬AB÷3¬CR÷3¬AC÷3¬CX÷Антофагаста¬RW÷0¬AX÷1¬AO÷1611070222¬BX÷-1¬WQ÷¬WM÷ANT¬AE÷Антофагаста¬JA÷rHEeOOYQ¬WU÷antofagasta¬AS÷1¬AZ÷1¬GRA÷0¬AG÷3¬BA÷1¬BC÷2¬WN÷DEP¬AF÷Депортес Икике¬JB÷0d1NJrsr¬WV÷deportes-iquique¬GRB÷0¬AH÷1¬BB÷1¬BD÷0¬AW÷1¬
+
+~AA÷SUhee6PA¬AD÷1611086400¬ADE÷1611086400¬AB÷2¬CR÷2¬AC÷38¬CX÷Уачипато¬RW÷0¬AI÷y¬AX÷1¬AO÷1611089514¬BX÷-1¬WQ÷¬WN÷ESP¬AF÷Унион Эспаньола¬JB÷nDaVHMBf¬WV÷u-espanola¬GRB÷0¬AH÷0¬BB÷0¬WM÷HUA¬AE÷Уачипато¬JA÷vm0RI2dl¬WU÷huachipato¬GRA÷0¬AG÷3¬BA÷3¬AL÷{"2":[{"BU":"\/bookmaker\/16\/?from=live-streaming&sport=0","IU":"\/res\/image\/data\/bookmakers\/17-16.png","BN":"bet365","BI":16,"BT":"GEO restrictions apply. Funded account required or to have placed a bet in the last 24 hours. GamblingTherapy.org. 18+"},{"BU":"\/bookmaker\/454\/?from=live-streaming&sport=0","IU":"\/res\/image\/data\/bookmakers\/17-454.png","BN":"Winline","BI":454}]}¬AW÷1¬AN÷y¬MW÷454|453|471|417|16¬
+
+~ZA÷ЭФИОПИЯ: Премьер-лига¬ZEE÷pjAXwP51¬ZB÷74¬ZY÷Эфиопия¬ZC÷UkPG3NLI¬ZD÷c¬ZE÷pOpSL4pr¬ZF÷0¬ZO÷0¬ZG÷1¬ZH÷74_pjAXwP51¬ZJ÷2¬ZL÷/football/ethiopia/premier-league/¬ZX÷00Эфиопия     007фиопия0000000000001000Премьер-лига012р-лига000¬ZCC÷0¬ZAF÷Эфиопия¬
+
+~AA÷Cpu2X2v4¬AD÷1611039600¬ADE÷1611039600¬AB÷3¬CR÷3¬AC÷3¬CX÷Себета Сити¬RW÷0¬AX÷0¬AO÷1611046606¬BX÷-1¬WQ÷¬WM÷СЕБ¬AE÷Себета Сити¬JA÷z1p3863K¬WU÷sebeta-city¬AJ÷1¬GRA÷0¬AG÷1¬BA÷1¬BC÷0¬WN÷БАХ¬AF÷Бахир Дар Кенема¬JB÷UNq77QIQ¬WV÷bahir-dar-kenema¬AS÷2¬AZ÷2¬GRB÷0¬AH÷4¬BB÷0¬BD÷4¬
+
+~AA÷Qmq6WMgA¬AD÷1611057600¬ADE÷1611057600¬AB÷3¬CR÷3¬AC÷3¬CX÷Сент-Джордж¬RW÷0¬AX÷0¬AO÷1611064442¬BX÷-1¬WQ÷¬WM÷СЕН¬AE÷Сент-Джордж¬JA÷6qyZ2pRs¬WU÷st-georges¬AS÷1¬AZ÷1¬GRA÷0¬AG÷1¬BA÷0¬BC÷1¬WN÷WEL¬AF÷Велайта Дича¬JB÷06zw24tl¬WV÷welayta-dicha¬GRB÷0¬AH÷0¬BB÷0¬BD÷0¬
+
+~ZA÷ЮЖНАЯ АФРИКА: Премьер-лига¬ZEE÷WYFXQ1KH¬ZB÷175¬ZY÷Южная Африка¬ZC÷dbYil77J¬ZD÷p¬ZE÷MwLOtbD6¬ZF÷0¬ZO÷0¬ZG÷1¬ZH÷175_WYFXQ1KH¬ZJ÷2¬ZL÷/football/south-africa/premier-league/¬ZX÷00Южная Африка012Африка0000000000001000Премьер-лига012р-лига000¬ZCC÷0¬ZAF÷Южная Африка¬
+
+~AA÷lA4rDjQM¬AD÷1611068400¬ADE÷1611068400¬AB÷3¬CR÷3¬AC÷3¬CX÷Кайзер Чифс¬RW÷0¬AX÷1¬AO÷1611075244¬BX÷-1¬WQ÷¬WM÷KAI¬AE÷Кайзер Чифс¬JA÷tvmE2DZg¬WU÷kaizer-chiefs¬AS÷1¬AZ÷1¬AJ÷1¬GRA÷0¬AG÷3¬BA÷1¬BC÷2¬WN÷ШАК¬AF÷Шакхума¬JB÷z1nI1Xl0¬WV÷tshakhuma¬AK÷1¬GRB÷0¬AH÷0¬BB÷0¬BD÷0¬AW÷1¬
+
+~AA÷Kz0vEWAG¬AD÷1611068400¬ADE÷1611068400¬AB÷3¬CR÷3¬AC÷3¬CX÷Мамелоди Сандаунс¬RW÷0¬AX÷1¬AO÷1611075296¬BX÷-1¬WQ÷¬WM÷MAM¬AE÷Мамелоди Сандаунс¬JA÷YDq64Z4s¬WU÷mamelodi-sundowns¬AS÷0¬AZ÷0¬GRA÷0¬AG÷0¬BA÷0¬BC÷0¬WN÷BLO¬AF÷Блумфонтейн Селтик¬JB÷2mlA3gKm¬WV÷bloem-celtic¬AS÷0¬AZ÷0¬GRB÷0¬AH÷0¬BB÷0¬BD÷0¬AW÷1¬
+
+~QA÷1¬QB÷6Da4FdIb¬QC÷1610830800|¬QB÷EZjTW5SL¬QC÷1610924400|¬QB÷40JzxFiR¬QC÷1611147600|¬QB÷WnLSwyNE¬QC÷1611147600|¬QB÷UNvYHg0e¬QC÷1611155700|¬QB÷88jPJFVr¬QC÷1611163800|¬QB÷29OixOoA¬QC÷1611171000|¬QB÷jXuUIZpk¬QC÷1611250200|¬QB÷YgCIGHrs¬QC÷1611147300|¬QB÷fT2wCgcC¬QC÷1611155400|¬QB÷lj2sBDCI¬QC÷1611162600|¬QB÷dKJvxkTE¬QC÷1611156600|¬QB÷nBDOR457¬QC÷1611164700|¬QB÷zBIry9rL¬QC÷1611172800|¬QB÷QePFTQze¬QC÷1611251100|¬QB÷2cKzwVD8¬QC÷1611259200|¬QB÷lSgass1Q¬QC÷1610805600|¬QB÷ljxnYxOC¬QC÷1610805600|¬QB÷GMkGKJgD¬QC÷1610820000|¬QB÷jytRx19s¬QC÷1610820000|¬QB÷UPwbq3WD¬QC÷1610820000|¬QB÷b1qZzuvf¬QC÷1610820000|¬QB÷8Gx2rNoK¬QC÷1610820000|¬QB÷pbuVyLOm¬QC÷1610820000|¬QB÷KGXsZI86¬QC÷1610820000|¬QB÷tQYwzag0¬QC÷1610820000|¬QB÷SdLWYfxp¬QC÷1611000600|¬QB÷W2ancSfb¬QC÷1611189000|¬QB÷4j0OQcur¬QC÷1611001800|¬QB÷UXPTGYDg¬QC÷1611147600|¬QB÷b3EWzf5P¬QC÷1611162000|¬QB÷j1gBTBca¬QC÷1611766800|¬QB÷0C0bWDDt¬QC÷1611160200|¬QB÷8x46Uirg¬QC÷1611165600|¬QB÷lYWuEWcC¬QC÷1611165600|¬QB÷MoVmCASO¬QC÷1612962000|¬QB÷vJghiRhC¬QC÷1612277100|¬QB÷KUAkjo8I¬QC÷1612277100|¬QB÷2kC0aONc¬QC÷1613504700|¬QB÷hdvTKFSs¬QC÷1611163800|¬QB÷tIAA2YCD¬QC÷1611162000|¬QB÷Uaba5zTf¬QC÷1611146700|¬QB÷OvV8LnJh¬QC÷1611172800|¬QB÷E9o3NASa¬QC÷1611766800|¬QB÷zJnaOjDg¬QC÷1611683100|¬QB÷dYz8MUs6¬QC÷1611770400|¬QB÷E7SHcPO3¬QC÷1611146700|¬QB÷IuZ8aofi¬QC÷1611146700|¬QB÷4xoRz2Hj¬QC÷1611146700|¬QB÷WrwDb59c¬QC÷1611146700|¬QB÷QonNyr2p¬QC÷1611248400|¬QB÷AyuCLlcC¬QC÷1611773100|¬QB÷zoXKD1b0¬QC÷1611171000|¬QB÷8zPXAarJ¬QC÷1611171000|¬QB÷b3zqIGkn¬QC÷1611163800|¬QB÷fVTiGfKb¬QC÷1611171000|¬QB÷lhTeFEZ4¬QC÷1611171000|¬QB÷AJqUIGpa¬QC÷1611165600|¬QB÷8Gdd6xzk¬QC÷1614711600|¬QB÷MTJsNXrO¬QC÷1614109500|¬QB÷v5UxODTH¬QC÷1615923900|¬QB÷WvRUPZb5¬QC÷1615923900|¬QB÷xI3xIXPu¬QC÷1611094500|¬QB÷G82tHiun¬QC÷1611094500|¬QB÷OY5lFV9b¬QC÷1611094500|¬QB÷hEc5Bm9N¬QC÷1611094500|¬QB÷6cegEkP4¬QC÷1611102600|¬QB÷pr7pGBfh¬QC÷1611169200|¬QB÷ENb1CTgH¬QC÷1611180900|¬QB÷CfxWdlfU¬QC÷1611189000|¬QB÷YPE2A7OT¬QC÷1611261900|¬QB÷xC65VVOt¬QC÷1611090000|¬QB÷phfDb1sH¬QC÷1611410400|¬
+
+~
+
+~A1÷2e949270951f99b7bb86b9a41921c84e¬
+
+~
